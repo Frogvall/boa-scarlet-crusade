@@ -578,24 +578,106 @@ It contains audience rooms, offices, meeting chambers, quarters for senior offic
 
 The player characters are unlikely to wander freely through the entire keep, but they may be summoned here for important orders, formal reports, ceremonies, or meetings with senior figures.
 
-{{dragonbox
-### Taelan Fordring
+#### Highlord Taelan Fordring
 
-Lorem Ipsum
+is lord of Mardenholde and one of the most visible symbols of Scarlet authority in Hearthglen.
 
-|                                                              |
-|:-------------------------------------------------------------|
-| **Movement:** 10 &emsp; **Damage Bonus:** Str +D4            |
-| **Armor:** Leather (1) &emsp; **HP:** 20 &emsp; (**WP:** 8)  |
-| **Skills:** Awareness 10, Brawling: 12, Evade: 10            |
-| **Abilities:** Robust x 2                                    |
-| **Weapons:** Short sword (skill level 12, damage D10), short bow (skill level 12, damage D10) |
-}}
+He should initially make a strong and largely positive impression.
 
-\column
+Taelan is earnest, courageous, deeply committed to the defense of the living, and accustomed to responsibility. He does not need to be flawless, but he should feel like someone whom reasonable people might willingly follow.
+
+He does not normally concern himself with routine patrol assignments or minor logistical matters. When Taelan speaks directly to newly recruited characters, it should feel significant.
+
+#### High Protector Lorik
+
+is responsible for much of Hearthglen's practical military security.
+
+Where Taelan represents authority, Lorik exercises it.
+
+He oversees patrol readiness, guards, local responses to threats, and the officers responsible for everyday operations. He is experienced, observant, and not easily impressed by bravado.
+
+Lorik expects discipline but values competence. A soldier who notices something important, adapts intelligently, or admits uncertainty is more useful to him than one who blindly pretends everything is under control.
+
+He can become one of the player characters' most important recurring superiors.
+
+#### The Command Chamber
+
+is where Hearthglen's senior officers gather to discuss matters that require more than routine attention. Reports are usually handled by junior officers elsewhere, but significant developments eventually reach Lorik or the officers assembled here.
+
+Maps of the surrounding countryside cover one wall. Wooden markers indicate patrols, known undead concentrations, supply routes, and positions that have recently gone silent.
+
+### 2. Barracks and Training Yard
+
+> The training yard never seems entirely quiet. Wooden practice weapons crack against shields, instructors bark corrections, and armored soldiers circle one another in the churned earth.
+>
+> Along one side of the yard stand long timber barracks, their doors open to the smell of leather, lamp oil, damp wool, and too many people sleeping in too little space.
+
+Most Scarlet soldiers stationed in Hearthglen live or spend part of their day here.
+
+The barracks are practical rather than comfortable. Equipment racks line the walls, personal possessions are kept in small chests, and duty rosters are posted where everyone can see them.
+
+#### Cavalier Durgen
+
+frequently operates between Hearthglen and the surrounding roads, towers, and patrol routes.
+
+Durgen is closer to the daily life of rank-and-file soldiers than Lorik. He may lead field patrols, escort missions, scouting sweeps, or rapid responses to threats beyond the walls.
+
+He is a useful NPC when the player characters need an officer who may actually accompany them into danger.
+
+Durgen should be competent enough that his presence is reassuring without turning him into the solution to the player characters' problems.
+
+#### Elric Vane
+
+is a fellow recruit and one of the recurring faces in the barracks. He is a recent recruit of roughly the same standing as the player characters.
+
+Elric is capable but inexperienced. He is eager to prove that he belongs and initially believes strongly in the Crusade's mission without being especially ideological about it. He can train beside the player characters, share meals with them, complain about assignments, celebrate victories, and occasionally be sent on different missions.
+
+Elric's importance is not what he knows. It is that he begins the campaign standing approximately where the player characters do and gain in skill and reputation in parallell to the player characters.
+
+\page
+{{pageNumber,auto Act 1 --- Hearthglen}}
+
+### 3. The Chapel
+
+> Warm candlelight spills from narrow windows set into an old stone building. The Scarlet flame hangs above the entrance, but the chapel beneath it is older than the Crusade.
+>
+> Inside, rows of simple benches face a modest altar. Names have been carved into wooden plaques along the walls. There are too many plaques.
+
+The chapel serves soldiers and civilians alike.
+
+Services are held regularly, but people also come here privately to pray, mourn, seek counsel, or sit somewhere quiet.
+
+The faith practiced here should initially feel sincere rather than theatrical. The people of Hearthglen have buried friends and family for years. Religion offers discipline and certainty, but also comfort.
+
+#### High Clerist Mara Voss
+
+oversees much of Hearthglen's spiritual care. Mara is stern in public and patient in private. She has spent years treating soldiers who returned from battles they should not have survived and consoling families whose relatives did not return at all. She believes with absolution that undeath is an abomination. That conviction does not make her cruel.
+
+At the beginning of the campaign she distinguishes clearly between protecting the living and punishing them.
+
+### 4. The Infirmary
+
+> The infirmary smells of boiled cloth, herbs, blood, and strong spirits. Beds stand in close rows beneath high windows, with curtains hung between the worst cases.
+>
+> A pair of orderlies move quietly from patient to patient while a Scarlet priest washes dried blood from her hands.
+
+The infirmary occupies a building close to the chapel. It treats combat wounds, accidents, disease, exposure, and injuries suffered by civilians working outside the walls. Wounded patrols returning to Hearthglen are usually brought here first.
+
+High Clerist Mara Voss divides her time between the chapel and infirmary, assisted by Scarlet priests, orderlies, and anyone with useful medical skills.
+
+#### Plague Precautions
+
+are a routine part of life in Hearthglen. Anyone suspected of exposure to unusual disease or Scourge corruption is isolated until examined.
+
+At the beginning of the campaign, these measures should feel careful and practical rather than fanatical. The distinction may become important later.
+
+\page
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+
+# The Scarlet Crusaders
+{title="Appendix A"}
 
 ![high protector lorik](https://i.imgur.com/FuJwHST.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
-
 
 {{dragonbox
 ### High Protector Lorik
@@ -612,11 +694,84 @@ High Protector Lorik is a broad-shouldered, balding veteran with a heavy dark be
 | **Weapons:** Broadsword (skill level 12, damage 2D6), Large Shield (skill level 12, damage D8),|
 }}
 
-\page
-{{pageNumber,auto Appendix A --- Enemies}}
+\column
 
-# Enemies
-{title="Appendix A"}
+![cavalier durgen](https://i.imgur.com/uPJkd5H.png) {height:400px,mix-blend-mode:multiply,margin-left:1cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+
+{{dragonbox
+### Cavalier Durgen
+
+Cavalier Durgen is a hard-riding field officer with a weathered face, dark hair, and the restless energy of a man more comfortable in the saddle than behind a desk. He fights aggressively with sword or mace and is quick to take the initiative when danger appears. Durgen is direct, demanding, and fiercely loyal to those who prove themselves in the field.
+
+|                                                              |
+|:-------------------------------------------------------------|
+| **Movement:** 10 &emsp; **Damage Bonus STR:** +D6           |
+| **HP:** 14 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 12  |
+| **Armor:** Plate Armor (6)
+| **Skills:** Awareness: 10, Evade: 10, Riding: 14            |
+| **Abilities:** Paladin's Righteousness, Blade of Justice, Veteran
+| **Weapons:** Longsword  (skill level 14, damage 2D8), Mace (skill level 14, damage 2D4),|
+}}
+
+\page
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+
+{{wide
+![huntsman radley and bloodshot](https://i.imgur.com/EBCS5EH.pngg) {height:400px,mix-blend-mode:multiply,margin-left:5cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+}}
+
+
+{{dragonbox
+### Huntsman Radley
+
+Huntsman Radley is a lean, weather-beaten woman with reddish-brown hair, a sharp gaze, and the quiet confidence of someone more at home in the wilds than behind walls. She carries a scoped rifle across her back and a short bow for quieter work, while Bloodshot is rarely far from her side. Radley speaks little, notices much, and has a habit of judging people by how they behave when no one is watching.
+
+|                                                              |
+|:-------------------------------------------------------------|
+| **Movement:** 12 &emsp; **Damage Bonus AGL:** +D4            |
+| **HP:** 14 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 14  |
+| **Armor:** Leather (1)  |
+| **Skills:** Awareness: 14, Beast Lore: 16, Bushcraft: 14, Evade: 12, Healing: 8, Hunting & Fishing: 14, Sneaking: 12            |
+| **Abilities:** Aimed Shot, Companion, Hunter's Instincts                               |
+| **Weapons:** Dagger (skill level 12, damage D8), Rifle (skill level 14, damage 2D10, sniper scope), Short Bow (skill level 12, damage D10) |
+}}
+
+\column
+
+{{dragonbox
+### Bloodshot
+
+Bloodshot is a large, scarred wolf with dark grey fur, amber eyes, and the watchful stillness of a seasoned hunting animal. He rarely strays far from Radley and responds to subtle gestures and whistles rather than shouted commands. Around strangers he is wary but controlled; in the field, he moves with practiced discipline and brutal efficiency.
+
+|                                                 |
+|:------------------------------------------------|
+| **Movement:** 16                                |
+| **HP:** 10                                      |
+| **Armor:** ---                                  |
+| **Skills:** Awareness 14, Evade 12, Sneaking 14 |
+| **Weapons:** Bite 14 (2D6)                      |
+
+#### Threatening Presence:
+
+Huntsman Radley gets a boon on attack rolls against any creature within 2 meters of Bloodshot.
+
+#### Keen Smell
+
+Bloodshot gets a boon on any roll relying on smell.
+}}
+
+\page
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+
+* Highlord Taelan Fordring
+* Initiate Elric Vane
+* High Clerist Mara Voss
+
+\page
+{{pageNumber,auto Appendix B --- The Scourge}}
+
+# The Scourge
+{title="Appendix B"}
 
 ## Ghoul
 
