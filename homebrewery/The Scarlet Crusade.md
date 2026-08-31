@@ -804,6 +804,28 @@ Elric Vane often spends time here when off duty, while Durgen may sit down with 
 
 Lorik rarely stays long, and Taelan almost never visits casually. Their presence should therefore feel more significant when it does occur.
 
+## LOCAL EVENTS
+
+These events can be used when the player characters return to Hearthglen or whenever the settlement needs to feel active. They are not necessarily adventure hooks.
+
+{{wide
+| D8 | EVENT |
+|:---:|:---|
+| 1 | **Returning patrol.** A muddy patrol enters through the gate carrying one wounded soldier on a makeshift stretcher. They encountered ghouls near an otherwise routine route. |
+| 2 | **Broken wagon.** A supply cart has lost a wheel in the middle of a busy street. Brenna Holt is furious because three other carts are now trapped behind it. |
+| 3 | **Funeral bells.** The chapel bell sounds slowly. A patrol member who died from wounds received several days earlier is being laid to rest. |
+| 4 | **Fresh timber.** Workers arrive with a large shipment from the lumber mills. Repairs begin immediately on a section of palisade damaged by weather. |
+| 5 | **Training dispute.** Two soldiers argue after a sparring match becomes too serious. Durgen or another officer separates them before anyone is badly hurt, unless the player characters do so first. |
+| 6 | **Unexpected feast.** Hunters have brought down more game than expected. The common hall serves fresh meat, and the mood is unusually good for one evening. |
+| 7 | **Late patrol.** A patrol is several hours overdue. No alarm has been raised yet, but people near the gates have begun watching the road. |
+| 8 | **Children at war.** A group of children reenacts a battle against the Scourge using sticks and broken barrel lids. Every child wants to play a Scarlet paladin. |
+}}
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
+\page
+
+
+
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
 
