@@ -103,7 +103,7 @@ The campaign follows their service from those first assignments through a growin
 The campaign is divided into five acts. Each act marks a change in the player characters' understanding of the war, the Scarlet Crusade, and their own place within it. Their earliest duties should feel necessary, ordinary, and often worthwhile, giving them time to know Hearthglen, trust their comrades, and understand why the Crusade exists before that certainty is challenged.
 
 {{dragonbox
-### FOR THE GM ONLY
+### FOR THE Gamemaster ONLY
 
 This book is intended for the Gamemaster. Players should stop reading here.
 
@@ -264,9 +264,9 @@ The adventures in this campaign are the important moments in the characters' ser
 
 Weeks may pass between major assignments. During that time the characters perform ordinary duties, train, recover, maintain equipment, study magic, work on personal projects, and spend time with the people around them. Most of this should be handled narratively unless something interesting happens.
 
-The campaign tracks time in weeks behind the scenes. This gives the GM a simple way to handle training, equipment orders, long-term projects, patrol duty, healing, and the gradual change of seasons.
+The campaign tracks time in weeks behind the scenes. This gives the Gamemaster a simple way to handle training, equipment orders, long-term projects, patrol duty, healing, and the gradual change of seasons.
 
-The suggested time between major adventures is given in each act. The GM may shorten or extend these intervals by roughly a week when needed, but the characters should not know when the next important assignment will arrive. They experience time through duty rosters, changing weather, deliveries, training opportunities, and new orders rather than through a visible campaign schedule.
+The suggested time between major adventures is given in each act. The Gamemaster may shorten or extend these intervals by roughly a week when needed, but the characters should not know when the next important assignment will arrive. They experience time through duty rosters, changing weather, deliveries, training opportunities, and new orders rather than through a visible campaign schedule.
 
 Routine patrols are an important part of Scarlet service. Each act includes a patrol table appropriate to the current state of the region. Some patrols are mandatory, while opportunities for additional paid patrol duty may be offered during downtime. Ordinary guard duty, drills, escorts, and other routine assignments can usually be summarized without a roll.
 
@@ -452,7 +452,7 @@ This limit does not change the normal rules for training. It represents the prac
 
 During each week of routine service, the characters are assigned **one regular patrol**. Roll once on the Patrol Events table to see whether anything noteworthy occurs.
 
-The GM may also offer the group **one additional voluntary patrol during the same week**. If the characters accept, they patrol together and the GM makes another roll on the Patrol Events table. After completing the voluntary patrol, each player character may mark **one skill of their choice for advancement**. This advancement mark represents the additional practical experience gained through field duty and is separate from any training undertaken during the same week.
+The Gamemaster may also offer the group **one additional voluntary patrol during the same week**. If the characters accept, they patrol together and the Gamemaster makes another roll on the Patrol Events table. After completing the voluntary patrol, each player character may mark **one skill of their choice for advancement**. This advancement mark represents the additional practical experience gained through field duty and is separate from any training undertaken during the same week.
 
 Extra patrols should arise naturally in the fiction as voluntary assignments offered to the group: an additional road patrol, a check on an outlying watch post, an escort that needs extra protection, or a sweep requested by the garrison. The players should not be told that such an opportunity automatically exists every week.
 
@@ -462,7 +462,7 @@ This helps ordinary service and important assignments feel like part of the same
 
 A routine patrol may turn out to be uneventful, while an apparently ordinary assignment may become *The Missing Patrol* or *Grain for the Living*. Presenting them through the same channels helps preserve that uncertainty and keeps the characters focused on what their orders mean in the fiction rather than on whether they have just been handed a "main quest."
 
-If desired, the GM can even make a patrol roll behind the screen when introducing a major assignment, simply to preserve the same table rhythm and avoid signaling that anything unusual is about to happen.
+If desired, the Gamemaster can even make a patrol roll behind the screen when introducing a major assignment, simply to preserve the same table rhythm and avoid signaling that anything unusual is about to happen.
 
 ### Other Duties
 
@@ -490,6 +490,80 @@ Roll once for each regular or voluntary patrol.
 | 18 | **Ghouls.** The patrol encounters a small group of ghouls. You can find the ghoul stat block in Appendix A. |
 | 19 | **Dangerous Encounter.** A more serious threat appears: a larger ghoul pack, diseased wildlife, or another encounter appropriate to the area and current events. If this is rolled before *Trouble at the Mill*, avoid using diseased wildlife. |
 | 20 | **Foulmane.** The patrol discovers signs leading to an old crypt inhabited by Foulmane. The Foulmane encounter is described later in this act. If Foulmane has already been encountered, treat this result as an Uneventful Patrol instead. |
+}}
+
+{{pageNumber,auto Act 1 --- New Blood}}
+\page
+
+## The Shape of the Act
+
+The four adventures gradually expand the characters' place in Hearthglen and their understanding of the war around them.
+
+
+### Trouble at the Mill
+
+The characters help ordinary people and deal with a genuine local danger.
+
+The Crusade responds correctly. The source of contamination is isolated and destroyed, the mill can reopen, and people are safer because the characters acted. There is no conspiracy behind the danger. The Third War has simply left wounds that have not healed.
+
+The intended feeling is: ***We help people.***
+
+### The Missing Patrol
+
+The characters encounter the ordinary cost of the war against the Scourge.
+
+The missing soldiers were not fools, and Sergeant Beatrix did not recklessly throw their lives away. They encountered a threat, made a reasonable decision, and paid for it. The characters' task is not to uncover a secret. It is to find their comrades and bring back as many as they can.
+
+The intended feeling is: ***We can fight this war.***
+
+### Grain for the Living
+
+The characters see how much of the war is sustained by ordinary work.
+
+Food, medicine, lamp oil, tools, horses, wagons, and people willing to move them through dangerous country keep isolated positions alive. Nothing about the shipment is sinister. It matters because people need it.
+
+The intended feeling is: ***This war is bigger than Hearthglen.***
+
+### The Living Among the Dead
+
+The characters face the first situation in which vigilance and judgment are difficult to separate.
+
+The survivors have good reason to fear the Crusade's suspicion. The Crusade has good reason to be suspicious. One of the survivors really is an enemy, while the others are innocent. Suspicion can keep people alive. Knowing when suspicion is wrong can do the same.
+
+The intended feeling is: ***We are harsh because we have to be harsh.***
+
+### The End of the Act
+
+*The Living Among the Dead* is the final major adventure of New Blood, but the act does not need to end the moment the characters return through Hearthglen's gates.
+
+Allow the consequences to settle. A few days or weeks may pass. The rescued survivors find somewhere to sleep and begin deciding what remains of their lives. Reports are written. Equipment is cleaned. Patrols leave and return. Wagons arrive late. Someone complains about the weather. Hearthglen continues.
+
+Then show the characters what has changed. Soldiers who once barely noticed them now greet them by name. Workers at the mills remember who made their road safe. Someone in the Common Hall saves them seats. Brenna complains to them as though they have always been part of her logistical problems. Durgen speaks to them as soldiers whose judgment he knows rather than recruits who must still prove themselves.
+
+The player characters are no longer new blood. They have protected the people of Hearthglen, searched for missing comrades, kept an isolated position supplied, and faced an enemy who hid among innocent people. They have earned their place.
+
+At the end of the act, **the player characters earn another heroic ability each**.
+
+New duties will come soon enough, but for now, Hearthglen is home.
+
+{{dragonbox,margin-top:1cm
+### Keeping Track of the Act
+
+There is no need for a formal reputation system, but the Gamemaster should make brief notes about relationships and important outcomes.
+
+In particular, note:
+
+* which Hearthglen NPCs the characters grow close to.
+* which officers trust or distrust their judgment.
+* whether Sergeant Alexandria Beatrix survives.
+* whether Sentinel Tomas Rell survives.
+* how the characters deal with the dead during *The Missing Patrol*.
+* how much of the convoy reaches its destination in *Grain for the Living*.
+* what happens to Merek Calder.
+* how the characters treat the innocent survivors in *The Living Among the Dead*.
+* any other NPC the players unexpectedly become attached to.
+
+These notes are more useful than a single score. They tell the Gamemaster who the characters care about.
 }}
 
 {{pageNumber,auto Act 1 --- New Blood}}
@@ -945,6 +1019,51 @@ As with the core schools, Hearthglen normally provides instruction only up to le
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
 
+## Bringing It to Life
+
+### Let Hearthglen Become Home
+
+The recurring people of Hearthglen should appear outside the adventures in which they are immediately useful.
+
+* Cavalier Durgen can be seen overseeing drills, eating with soldiers, arguing over patrol assignments, or returning exhausted from a mission of his own.
+
+* Quartermaster Brenna Holt has wagons to account for whether the player characters are involved or not.
+
+* Huntsman Radley and Bloodshot come and go from the surrounding countryside.
+
+* High Clerist Mara Voss tends more wounded people than just the characters.
+
+* Initiate Elric Vane trains, works, complains, celebrates, and fails alongside his peers.
+
+Let these people occasionally exist without asking anything of the player characters. Someone may simply share a table with them. Someone may wave from across the yard. Someone they helped weeks ago may remember their name. These small moments are what turn a collection of NPCs into a community.
+
+### Recurring Faces
+
+Do not seed every conversation with clues, warnings, or future plot. For now, many of Hearthglen's people are simply comrades. Give important recurring NPCs enough ordinary table time that the players form their own opinions of them. Those relationships can become valuable later, but they should feel real before they become useful to the story.
+
+### Trust, Not Reputation
+
+There is no single numerical measure of the characters' standing within the Scarlet Crusade. People remember what the characters have done.
+
+Quartermaster Brenna Holt may trust someone who saved a wagon others would have abandoned. High Clerist Mara Voss may remember who remained with a dying soldier. Cavalier Durgen may respect a character's judgment in the field even when another officer considers the same character undisciplined.
+
+Access to instruction, equipment, records, or authority should therefore depend on circumstances and relationships rather than a universal reputation score.
+
+Trust is personal. So is distrust.
+
+### Establish the Baseline
+
+Act I should not make the Scarlet Crusade look secretly monstrous. Let its precautions work. Let competent officers make sensible decisions. Let soldiers risk themselves for civilians and comrades. When suspicion is justified, allow it to be justified. Later developments carry more weight if the player characters first understand why people in Hearthglen came to believe that vigilance, discipline, and harsh measures were necessary.
+
+### Give Normality Room to Breathe
+
+The adventures in this act represent the moments the characters will remember. Between them lie days and weeks of ordinary military life.
+
+Do not rush these quieter periods simply because nothing dramatic is happening. The stronger Hearthglen feels as a functioning home and community now, the more meaningful later changes to the Crusade and its people will become.
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
+\page
+
 # The Scarlet Crusaders
 {title="Appendix A"}
 
@@ -1038,6 +1157,22 @@ Bloodshot gets a boon on any roll relying on smell.
 * Initiate Elric Vane
 * High Clerist Mara Voss
 * Quartermaster Brenna Holt
+* Sergeant Alexandria Beatrix
+
+<!--{{dragonbox
+### Sergeant Alexandria Beatrix
+
+Alexandria Beatrix is an experienced Scarlet patrol sergeant known for discipline, composure, and a sharp sense of responsibility toward the soldiers under her command. She is practical rather than theatrical, expects orders to be followed, and has little patience for unnecessary familiarity. Recruits who become too casual may be reminded with a curt, “That’s Sergeant Beatrix to you.”
+
+|                                                              |
+|:-------------------------------------------------------------|
+| **Movement:** 12 &emsp; **Damage Bonus AGL:** +D4            |
+| **HP:** 14 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 14  |
+| **Armor:** Leather (1)  |
+| **Skills:** Awareness: 14, Beast Lore: 16, Bushcraft: 14, Evade: 12, Healing: 8, Hunting & Fishing: 14, Sneaking: 12            |
+| **Abilities:** Aimed Shot, Companion, Hunter's Instincts                               |
+| **Weapons:** Dagger (skill level 12, damage D8), Rifle (skill level 14, damage 2D10, sniper scope), Short Bow (skill level 12, damage D10) |
+}}-->
 
 {{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
 \page
