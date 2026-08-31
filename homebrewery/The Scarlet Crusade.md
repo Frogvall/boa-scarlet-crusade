@@ -105,7 +105,7 @@ The campaign is divided into five acts. Each act marks a change in the player ch
 {{dragonbox
 ### FOR THE GM ONLY
 
-This book is intended for the Game Master. Players should stop reading here.
+This book is intended for the Gamemaster. Players should stop reading here.
 
 The following chapters reveal the campaign's enemies, future events, hidden motives, and other information that is meant to be discovered during play.
 }}
@@ -118,7 +118,7 @@ Rules, spells, weapons, and Heroic Abilities from those books may be referenced 
 
 Some optional material makes use of rules from the **Book of Magic**. Such material is clearly marked and can be ignored without affecting the main campaign.
 
-This book is written for the Game Master rather than the players. It describes the history and current state of Lordaeron, the forces acting within it, and the structure of the campaign before presenting the five acts themselves.
+This book is written for the Gamemaster rather than the players. It describes the history and current state of Lordaeron, the forces acting within it, and the structure of the campaign before presenting the five acts themselves.
 
 The first of these begins in Hearthglen, where the characters' training has ended and their real service is about to begin.
 
@@ -338,11 +338,11 @@ The final conflict is not about whether the Scourge is evil or whether the Scarl
 
 The Scarlet Crusade is not an adventuring company that accepts anyone willing to fight the undead. It is a military and religious order born from the remnants of Lordaeron and the Order of the Silver Hand, and its membership reflects that history.
 
-The recommendations below are based on the Scarlet Crusade as it is portrayed in Warcraft lore and on the assumptions of this campaign. They are not additional rules for Bane of Azeroth. The Game Master always has the final say on which kin, classes, and character concepts are available.
+The recommendations below are based on the Scarlet Crusade as it is portrayed in Warcraft lore and on the assumptions of this campaign. They are not additional rules for Bane of Azeroth. The Gamemaster always has the final say on which kin, classes, and character concepts are available.
 
 Unusual characters can work, and may create interesting stories, but the campaign assumes that the characters can function as recognized members of the Scarlet Crusade without every scene becoming a question of why they have not been expelled, imprisoned, or killed.
 
-These recommendations are intended to preserve the tone and historical grounding of the campaign, not to restrict how any particular group chooses to play. The Game Master is always free to make exceptions or alter the setting assumptions to suit the table. Also note that the recommendations concern kin and the classes introduced in Bane of Azeroth. Professions are not restricted by this section unless the Game Master decides otherwise.
+These recommendations are intended to preserve the tone and historical grounding of the campaign, not to restrict how any particular group chooses to play. The Gamemaster is always free to make exceptions or alter the setting assumptions to suit the table. Also note that the recommendations concern kin and the classes introduced in Bane of Azeroth. Professions are not restricted by this section unless the Gamemaster decides otherwise.
 
 ### Kin
 
@@ -354,7 +354,7 @@ A high elf or dwarf character should have a strong personal connection to the Cr
 
 Even with such a background, acceptance should not be universal. Some Scarlet soldiers may respect the character's service or family history, while others remain suspicious simply because they are not human. The player should be comfortable with that tension being part of the character's story.
 
-Other kin are not recommended for this campaign. A Game Master who wishes to allow one should first consider why the Scarlet Crusade would accept that individual and whether doing so would undermine the campaign's premise.
+Other kin are not recommended for this campaign. A Gamemaster who wishes to allow one should first consider why the Scarlet Crusade would accept that individual and whether doing so would undermine the campaign's premise.
 
 ### Classes
 
@@ -369,7 +369,7 @@ all have clear places within the Scarlet Crusade. Paladins and priests reflect t
 The remaining Bane of Azeroth classes are not recommended for player characters in this campaign for various reasons.
 
 #### Druids and Shamans
-are poor fits primarily because they do not have a natural place among the human, high elven, or dwarven traditions represented within the Scarlet Crusade at this point in Azeroth's history. Allowing one would therefore require the Game Master to deliberately depart from the normal assumptions of the setting rather than merely explain an unusual individual.
+are poor fits primarily because they do not have a natural place among the human, high elven, or dwarven traditions represented within the Scarlet Crusade at this point in Azeroth's history. Allowing one would therefore require the Gamemaster to deliberately depart from the normal assumptions of the setting rather than merely explain an unusual individual.
 
 #### Death Knights
 are fundamentally incompatible with the Crusade's purpose. They are undead warriors associated with the very powers the Scarlet Crusade exists to destroy.
@@ -425,7 +425,7 @@ The timeline above provides a suggested pace for the act. Adjust it as needed, b
 
 Between major assignments, the characters continue serving in Hearthglen. They stand watch, drill, escort supplies, maintain equipment, help workers, recover from wounds, attend funerals, spend time with comrades, train, study magic, and pursue personal projects.
 
-Most of this ordinary service should be handled narratively. The campaign tracks time in weeks so that training, equipment orders, crafting, recovery, and other long-term activities have a meaningful place in play without requiring the Game Master to account for every day.
+Most of this ordinary service should be handled narratively. The campaign tracks time in weeks so that training, equipment orders, crafting, recovery, and other long-term activities have a meaningful place in play without requiring the Gamemaster to account for every day.
 
 ### Weekly Routine
 
@@ -824,7 +824,65 @@ These events can be used when the player characters return to Hearthglen or when
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
 
+## Magical Study
 
+Hearthglen is a military settlement rather than a great center of learning, but the garrison contains enough experienced soldiers, priests, mages, craftsmen, and specialists for the characters to continue developing their skills between assignments.
+
+Skill training follows the normal Dragonbane rules. Suitable instructors can usually be found for skills that have an obvious place in the life of the settlement, particularly combat, riding, healing, wilderness skills, crafting, and other practical disciplines.
+
+More unusual fields of study may require the right individual, suitable material, or instruction elsewhere.
+
+### Learning Magic
+
+Characters learn new magic using the normal Dragonbane rules. During a full week of routine service and downtime, a character may normally devote their focused training period to magical studies. As described in *Running the Act*, this is normally limited to one period of focused training per week, whether it is used for skill training or magical study.
+
+Hearthglen can normally provide instruction in **level 1 and level 2 spells** from the schools represented in the settlement. This is a limit on the instruction routinely available here, not on the abilities of individual NPCs.
+
+A teacher does not automatically know every spell belonging to a school they practice. The Gamemaster should consider whether a suitable teacher or grimoire is available, whether the spell fits that teacher's knowledge, and whether any prerequisites for learning it are fulfilled.
+
+If a particular spell cannot be taught in Hearthglen, an instructor may still be able to point the character toward someone or somewhere that can provide further study.
+
+**Level 3 spells** are beyond Hearthglen's normal teaching resources. Characters seeking that level of instruction will generally need to continue their studies at the Scarlet Monastery or through another suitably accomplished teacher.
+
+**Level 4 and level 5 spells** are not routinely available at the campaign's major settlements. Such knowledge is normally found through exceptional teachers, rare grimoires, forgotten archives, or other discoveries made during play.
+
+### Magic in Hearthglen
+
+The following schools are represented among Hearthglen's priests, mages, and other specialists:
+
+**General Magic** can be studied through any suitable spellcaster with the necessary knowledge.
+
+**Animism** is practiced through the traditions of the Holy Light. Instruction is readily associated with healing, protection, purification, and magic used against the undead.
+
+**Elementalism** is practiced by battle magi serving with the garrison. Their teaching emphasizes practical battlefield magic, including fire, frost, wind, and similar effects.
+
+**Mentalism** is part of Hearthglen's arcane tradition and can be studied through its trained mages.
+
+{{demonbox
+### Using the Book of Magic
+
+If the *Book of Magic* is used, several additional schools are represented in Hearthglen.
+
+- **Alchemy** is available through Hearthglen's apothecaries and healers, with an emphasis on medicines, antidotes, reagents, and practical field preparations.
+
+- **Enchantment** can be studied to a limited degree through cooperation between arcane practitioners and Hearthglen's craftsmen.
+
+- **Harmonism** is represented through the Chapel's musical and liturgical traditions.
+
+- **Illusionism** is available in a limited form through Hearthglen's arcane scholars.
+
+- **Symbolism** is practiced both through sacred wards and inscriptions and through more academic arcane study.
+
+As with the core schools, Hearthglen normally provides instruction only up to level 2.
+
+### Not Available in Hearthglen
+
+- **Demonology** and **Necromancy** are forbidden. Knowledge associated with either is treated as a potential threat rather than a subject for ordinary study.
+
+- **Dragon Magic** lies beyond Hearthglen's available knowledge and resources.
+
+- **Witchcraft** has no recognized teacher in the settlement.
+}}
 
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
