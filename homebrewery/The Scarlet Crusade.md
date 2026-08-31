@@ -62,7 +62,7 @@ The Homebrewery
 
 {{resetCounting}}
 \page
-{{pageNumber,auto Contents}}
+
 
 # Contents
 
@@ -89,8 +89,8 @@ The Homebrewery
 
 }}
 
+{{pageNumber,auto Contents}}
 \page
-{{pageNumber,auto Introduction}}
 
 # Introduction
 
@@ -122,8 +122,8 @@ This book is written for the Game Master rather than the players. It describes t
 
 The first of these begins in Hearthglen, where the characters' training has ended and their real service is about to begin.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 ## History
 
@@ -161,8 +161,8 @@ During the fighting around Stratholme, the paladin Saidan Dathrohan was killed. 
 
 Balnazzar had reason to oppose the undead. The Scourge had broken from the control of the Burning Legion, and the dreadlord could turn Lordaeron's surviving warriors against enemies that were also his own. But an independent and united resistance led by men such as Alexandros Mograine would be much harder to control.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 Unable to bend Mograine to his will, Balnazzar instead manipulated his son Renault. Renault led his father and High Inquisitor Fairbanks into an ambush near Stratholme. After a long battle against the undead, the exhausted Alexandros dropped the Ashbringer, and Renault took up the sword and murdered his father with it. The betrayal corrupted both the weapon and the legacy surrounding it, while the Scourge later claimed Alexandros' body.
 
@@ -201,8 +201,8 @@ The Cult of the Damned survives alongside the Scourge as its living hand. Its me
 
 The Cult's presence is particularly important to the atmosphere of the campaign. A ghoul can usually be recognized for what it is. A cultist cannot.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 The Cult has long been associated with the corruption of Lordaeron and with Scholomance, the School of Necromancy beneath Caer Darrow. Even after the kingdom's fall, cultists continue to spread plague, create undead and support Scourge operations.
 
@@ -245,8 +245,8 @@ Beyond these places lie other powers and strongholds, including Tyr's Hand, the 
 
 At the beginning of the campaign, however, the characters' world is much smaller. Their world is Hearthglen. The Scourge is outside the walls, their comrades stand beside them, and the Scarlet Crusade appears to be one of the few forces still willing and able to fight for what remains of Lordaeron.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 ## Course of Events
 
@@ -286,8 +286,8 @@ As the campaign progresses, the characters should begin to notice a recurring pa
 
 The characters do not need to discover every detail of Balnazzar's plans to defeat him. They do not need to understand the full history of the Burning Legion, the Lich King, or the dreadlords. They only need to reach the conclusion that whoever is giving these orders must be stopped.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 ### The Acts
 
@@ -331,8 +331,8 @@ The campaign returns to one of the places where Lordaeron's fall began. The char
 
 The final conflict is not about whether the Scourge is evil or whether the Scarlet Crusade was ever worth fighting for. It is about whether the Crusade can remain what its soldiers believed it was meant to be while Balnazzar still controls it. The characters' relationships, earlier decisions, and the allies they have made should all matter here.
 
-\page
 {{pageNumber,auto Introduction}}
+\page
 
 ## Player Characters
 
@@ -380,8 +380,8 @@ openly make use of demonic or fel powers. Even where such individuals might figh
 #### Evokers
 belong to a people and tradition entirely outside the historical foundations of the Crusade and are not a natural fit for the period or premise of this campaign.
 
+{{pageNumber,auto Introduction}}
 \page
-{{pageNumber,auto Act 1 --- New Blood}}
 
 # New Blood
 {title="Act 1"}
@@ -441,8 +441,8 @@ The weekly structure provides a steady rhythm for the act. Major adventures rema
 
 During each full week of *routine service and downtime*, a player character may normally undertake **one period of focused training**.
 
-\page
 {{pageNumber,auto Act 1 --- New Blood}}
+\page
 
 This can be used either for **skill training** or for **magical studies**, following the normal Dragonbane and Bane of Azeroth rules for the chosen activity. A character cannot normally do both during the same week.
 
@@ -492,8 +492,8 @@ Roll once for each regular or voluntary patrol.
 | 20 | **Foulmane.** The patrol discovers signs leading to an old crypt inhabited by Foulmane. The Foulmane encounter is described later in this act. If Foulmane has already been encountered, treat this result as an Uneventful Patrol instead. |
 }}
 
+{{pageNumber,auto Act 1 --- New Blood}}
 \page
-{{pageNumber,auto Act 1 --- Hearthglen}}
 
 # Hearthglen
 {title="Act 1"}
@@ -544,8 +544,8 @@ None of this prevents ordinary life. People argue over food, gamble after duty, 
 
 For many, the Crusade is not an abstract ideology. It is the force that keeps the gates guarded and the dead outside.
 
-\page
 {{pageNumber,auto Act 1 --- Hearthglen}}
+\page
 
 ### The Old Town
 
@@ -561,8 +561,8 @@ Weapons are common, but violence within the settlement is not tolerated. Scarlet
 ![hearthglen map](https://i.imgur.com/rHvZY3e.png) {height:550px,mix-blend-mode:multiply,margin-top:3cm,margin-left:-1.2cm}
 }}
 
-\page
 {{pageNumber,auto Act 1 --- Hearthglen}}
+\page
 
 ## Locations
 
@@ -634,8 +634,8 @@ Elric is capable but inexperienced. He is eager to prove that he belongs and ini
 
 Elric's importance is not what he knows. It is that he begins the campaign standing approximately where the player characters do and gain in skill and reputation in parallell to the player characters.
 
-\page
 {{pageNumber,auto Act 1 --- Hearthglen}}
+\page
 
 ### 3. The Chapel
 
@@ -671,8 +671,141 @@ are a routine part of life in Hearthglen. Anyone suspected of exposure to unusua
 
 At the beginning of the campaign, these measures should feel careful and practical rather than fanatical. The distinction may become important later.
 
+### 5. Smithy and Workshops
+
+> Hammer blows ring from a cluster of workshops built against an old stone wall. Sparks leap from an open forge while workers move between racks of spearheads, horseshoes, nails, hinges, axe blades, and pieces of damaged armor.
+>
+> Not everything made here is a weapon. In Hearthglen, a broken wagon wheel can be as dangerous as a broken sword.
+
+The workshops support both the garrison and the civilian population. The local smiths and other craftsmen repair weapons, armor, tools, carts, doors, and fittings needed throughout the settlement.
+
+Common equipment can normally be repaired here, subject to available materials. More unusual items may require supplies from elsewhere.
+
+#### Work Before Glory
+
+is visible throughout Hearthglen's workshops. They are a good place to remind the players that the Crusade is an army sustained by ordinary labor. A blacksmith may spend the morning repairing a paladin's breastplate and the afternoon replacing iron bands on a grain cart.
+
+### 6. Storehouses
+
+> Carts stand wheel to wheel inside a broad fenced yard. Soldiers and laborers carry sacks between long storehouses while clerks check crates against wax tablets and ink-stained ledgers.
+>
+> Someone is always shouting about missing rope.
+
+Food, weapons, ammunition, medical supplies, lamp oil, spare tools, clothing, timber fittings, and countless other necessities pass through the quartermaster's yard.
+
+This is one of the least glamorous and most important places in Hearthglen.
+
+#### Scarlet Quartermaster Brenna Holt
+
+is responsible for keeping track of what Hearthglen has, what it needs, and where it is going. Brenna has little patience for soldiers who think supplies simply appear because an officer requested them. She is one of the best sources of practical information in Hearthglen and is also the natural recurring contact for supply and convoy missions.
+
+#### Supplies
+
+for official assignments can normally be obtained from the quartermaster, provided the request is reasonable and appropriate to the task. Personal purchases and unusual equipment are another matter. Brenna records everything.
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
 \page
-{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+
+### 7. The Lumber Mills
+
+> The smell of fresh-cut pine carries well before the mills come into view. Saws rasp through timber, axes strike in steady rhythm, and teams of workers drag stripped trunks toward stacks waiting for transport.
+>
+> Scarlet guards are present, but most of the people here carry tools rather than weapons.
+
+Several logging sites and mills outside the main defenses provide Hearthglen with timber. The work is dangerous even without the Scourge. Falling trees, heavy machinery, wild animals, and travel beyond the safest patrol routes all cause injuries.
+
+The mills produce material direly needed for palisades, roofs, repairs, carts, barricades, fuel, watch platforms, and military construction. The workers are therefore an essential part of Hearthglen's survival.
+
+#### Huntsman Radley
+
+spends much of her time beyond Hearthglen's walls. She tracks dangerous animals, scouts routes, investigates unusual signs in the wilderness, and helps patrols distinguish ordinary dangers from Scourge activity.
+
+#### Bloodshot
+is rarely far from Radley. He is well trained, alert, and deeply accustomed to working at her side. Radley trusts his reactions, especially when scent or instinct reveals something others have missed.
+
+### 8. Gates and Watch Posts
+
+> The South Gate stands between reinforced towers built from old stone and newer timber. Guards watch the road from above while travelers wait below to be questioned before entering.
+>
+> Beyond the walls, the road disappears into country where smoke on the horizon is never assumed to be harmless.
+
+Hearthglen has two gates, each serving a different part of the settlement's daily traffic.
+
+#### The South Gate
+
+is Hearthglen's main entrance and faces the road toward Andorhal and the rest of the Western Plaguelands. Most travelers, military traffic, and supplies arriving from the south pass through here. Guards watch the road from reinforced towers and question strangers before allowing them inside.
+
+#### The North Gate
+
+is sometimes called the Mill Gate. It is smaller than the South Gate but still wide enough for wagons and serves the lumber mills, nearby forests, and northern patrol routes. Timber carts, work crews, hunters, and patrols pass through regularly, usually under guard.
+
+Both gates are controlled at all times. Known residents and Scarlet patrols pass with little difficulty. Strangers are questioned, watched, and sometimes searched.
+
+This vigilance reflects genuine danger. Scourge creatures, Cult of the Damned agents, bandits, infected travelers, and desperate refugees may all approach the settlement.
+
+#### Patrols
+
+operate along the roads, lumber routes, nearby watch posts, and the safer approaches to Hearthglen.
+
+Patrols that fail to report on time are taken seriously. Anyone entering or leaving Hearthglen through the gates is recorded by the guards on duty. The gates are natural locations for departures, returning expeditions, wounded patrols, visitors, rumors from outside, and sudden alarms.
+
+#### Alarm Procedures
+
+are practiced regularly. When a recognized alarm signal is sounded, the gates are closed and off-duty soldiers report to their assigned positions. Civilians know where they are expected to go. The routine is practiced often enough that panic is rare.
+
+### 9. Hearthglen Proper
+
+> Hearthglen's streets wind between repaired stone houses, newer timber buildings, workshops, small yards, and occasional blackened ruins that no one has bothered to clear.
+>
+> A woman shakes dust from a blanket above the street. Two children chase one another around a water barrel until a passing soldier tells them to move. Somewhere nearby, someone is arguing loudly about onions.
+
+Most of Hearthglen's civilian life takes place here. There is no clean division between a military district and a civilian one. Soldiers rent rooms from families. Craftsmen work for the Crusade. Widows prepare food for patrols. Children carry messages for people who give them sweets. Small gardens occupy whatever usable soil can be found. Old cellars are used for storage. Abandoned buildings have been stripped for stone and timber. Some ruins are left untouched because no one has the time or desire to rebuild them.
+
+#### Civilians
+
+help make Hearthglen feel like a place people actually live in rather than a collection of military locations.
+
+They complain about food prices, bad weather, delayed repairs, officers they dislike, patrols that block the road, and whether the latest roof work will survive the winter. They gossip about distant battles, argue about refugees, speculate about new recruits, and notice which soldiers return from patrol and which do not.
+
+Most support the Scarlet Crusade because they see its soldiers protecting Hearthglen every day. Others are less interested in the Crusade as an institution and are simply trying to keep their families fed, their homes standing, and some part of ordinary life intact.
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
+\page
+
+### 10. THE COMMON HALL
+
+> The common hall is loud long before the door opens. Inside, long tables are crowded with soldiers, workers, teamsters, craftsmen, and anyone else who has earned enough coin or favor for a hot meal and a drink.
+>
+> Wet cloaks steam near the hearth. Someone has started singing badly. Someone else is losing money at dice.
+
+The common hall is Hearthglen's main informal gathering place. It may once have been an inn, guildhall, or large merchant house before the fall. Today its original purpose matters less than the fact that it has space, a kitchen, a hearth, and enough tables for a crowd.
+
+Scarlet officers do not officially conduct business here, but in practice a great deal of useful information passes through the room.
+
+#### Food and Drink
+
+are simple and filling rather than memorable. The common hall usually serves stew, bread, preserved meat, root vegetables, weak ale, and whatever else Hearthglen can currently spare.
+
+The quality varies with supply. A particularly good meal is noticed, while shortages become a topic of conversation almost immediately.
+
+#### Rumors
+
+spread easily through the common hall, making it one of the best places to introduce ordinary news without turning every conversation into a formal briefing.
+
+Soldiers and civilians talk about patrols returning late, dangerous stretches of a road, strange lights near Andorhal, upcoming convoys, transfers to the Scarlet Monastery, missing relatives, and whatever mundane gossip is currently circulating through Hearthglen.
+
+Most of these stories should remain exactly that: rumors, complaints, misunderstandings, or fragments of ordinary life. Not every conversation needs to lead to an adventure.
+
+#### Familiar Faces
+
+make the common hall useful as a recurring social location.
+
+Elric Vane often spends time here when off duty, while Durgen may sit down with soldiers after returning from patrol. Radley appears less predictably, sometimes with Bloodshot asleep beneath the table.
+
+Lorik rarely stays long, and Taelan almost never visits casually. Their presence should therefore feel more significant when it does occur.
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
+\page
 
 # The Scarlet Crusaders
 {title="Appendix A"}
@@ -713,11 +846,11 @@ Cavalier Durgen is a hard-riding field officer with a weathered face, dark hair,
 | **Weapons:** Longsword  (skill level 14, damage 2D8), Mace (skill level 14, damage 2D4),|
 }}
 
-\page
 {{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+\page
 
 {{wide
-![huntsman radley and bloodshot](https://i.imgur.com/EBCS5EH.pngg) {height:400px,mix-blend-mode:multiply,margin-left:5cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+![huntsman radley and bloodshot](https://i.imgur.com/EBCS5EH.png) {height:400px,mix-blend-mode:multiply,margin-left:4.5cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
 }}
 
 
@@ -760,15 +893,16 @@ Huntsman Radley gets a boon on attack rolls against any creature within 2 meters
 Bloodshot gets a boon on any roll relying on smell.
 }}
 
-\page
 {{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+\page
 
 * Highlord Taelan Fordring
 * Initiate Elric Vane
 * High Clerist Mara Voss
+* Quartermaster Brenna Holt
 
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
 \page
-{{pageNumber,auto Appendix B --- The Scourge}}
 
 # The Scourge
 {title="Appendix B"}
@@ -823,3 +957,5 @@ Foulmane is a rare ghoul with Ferocity equals the number of player characters mi
 }}
 
 ![ghoul](https://i.imgur.com/3EEQj0P.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-1.0cm,margin-bottom:-1.5cm}
+
+{{pageNumber,auto Appendix B --- The Scourge}}
