@@ -804,12 +804,12 @@ Elric Vane often spends time here when off duty, while Durgen may sit down with 
 
 Lorik rarely stays long, and Taelan almost never visits casually. Their presence should therefore feel more significant when it does occur.
 
-## LOCAL EVENTS
+{{tablebox,wide
+### Local Events
 
 These events can be used when the player characters return to Hearthglen or whenever the settlement needs to feel active. They are not necessarily adventure hooks.
 
-{{wide
-| D8 | EVENT |
+| D10 | EVENT |
 |:---:|:---|
 | 1 | **Returning patrol.** A muddy patrol enters through the gate carrying one wounded soldier on a makeshift stretcher. They encountered ghouls near an otherwise routine route. |
 | 2 | **Broken wagon.** A supply cart has lost a wheel in the middle of a busy street. Brenna Holt is furious because three other carts are now trapped behind it. |
@@ -819,6 +819,64 @@ These events can be used when the player characters return to Hearthglen or when
 | 6 | **Unexpected feast.** Hunters have brought down more game than expected. The common hall serves fresh meat, and the mood is unusually good for one evening. |
 | 7 | **Late patrol.** A patrol is several hours overdue. No alarm has been raised yet, but people near the gates have begun watching the road. |
 | 8 | **Children at war.** A group of children reenacts a battle against the Scourge using sticks and broken barrel lids. Every child wants to play a Scarlet paladin. |
+| 9 | **Supply day.** A long-awaited shipment has arrived, and the storehouses are unusually busy. Soldiers queue for replacement gear, civilians try to learn what has come in, and Brenna Holt has no patience for anyone slowing the process down. |
+| 10 | **A visitor from elsewhere.** A courier, priest, officer, merchant, or small delegation has arrived from another Scarlet stronghold. Their presence draws attention and provides fresh news, gossip, and comparison with life beyond Hearthglen. |
+}}
+
+{{pageNumber,auto Act 1 --- Hearthglen}}
+\page
+
+## Goods and Services
+
+Hearthglen is not a major market town, but it is a functioning military settlement supplied well enough to support soldiers, craftsmen, workers, and their families.
+
+Most **Common** equipment from the Dragonbane and Bane of Azeroth equipment lists can normally be obtained here when it makes sense for a working settlement or active garrison to have it. Everyday provisions, ordinary weapons and armor, ammunition, tools, clothing, medical supplies, and similar necessities are therefore rarely difficult to find.
+
+Availability does not necessarily mean that an item is sitting on a shop shelf. Equipment may come from the quartermaster's stores, a local craftsman, a trader, or a commission that takes time to complete.
+
+For **Uncommon**, **Rare**, or otherwise specialized equipment, the Gamemaster should consider whether Hearthglen has a reason to produce, stock, or import it. Unusual designs, foreign equipment, rare materials, luxury goods, and specialist tools may require time, a particular contact, or supplies brought in from elsewhere.
+
+If Hearthglen cannot provide something, the characters can usually learn where it might be found or ordered.
+
+### Service Issue
+
+Characters are not normally expected to pay for ordinary supplies required to carry out official duties.
+
+Food for the road, ammunition, torches, lamp oil, rope, basic medical supplies, camping equipment, and similar expendable necessities can usually be issued when appropriate to an assignment.
+
+More valuable resources are treated differently. Weapons, armor, mounts, expensive equipment, and unusual items remain Scarlet Crusade property and are issued only when there is a reason for the characters to need them.
+
+Military stores exist to support the characters' duties, not to provide free personal upgrades.
+
+### Repairs and Orders
+
+Hearthglen's craftsmen can repair most ordinary equipment and produce many Common items to order. Equipment that cannot be made locally may instead be brought in with a suitable supply shipment from another Scarlet settlement.
+
+How long this takes depends on the item, the work required, current demand on Hearthglen's workshops, and whether the necessary materials are already available.
+
+{{tablebox
+
+### Crafting Times
+
+| Circumstance | Typical Time |
+|:---|:---|
+| Ordinary repair or item already in stock | Immediately or within 1 week |
+| Simple local repair, alteration, or order | Within 1 week |
+| Substantial or specialized local work | About 2 weeks |
+| Complex or unusual local work | 3+ weeks |
+| Item brought in from another Scarlet settlement | Usually 2–4 weeks |
+}}
+
+These are guidelines rather than fixed crafting times. Urgent military work may take priority over personal requests, while rare materials or unusual components may need to be provided by the characters before work can begin.
+
+Items ordered from elsewhere normally travel with existing Scarlet supply traffic rather than by a courier sent solely for the characters. The next suitable shipment may therefore matter more than the actual travel time.
+
+{{demonbox,margin-top:1cm
+### Using the Book of Magic
+
+If the *Book of Magic* is used, Hearthglen's apothecaries can provide common ingredients, equipment, and facilities suitable for practical **Alchemy**. Finished substances and unusual ingredients are subject to the same availability considerations as other goods.
+
+Limited **Enchantment** is also possible through Hearthglen's spellcasters and craftsmen, but the settlement is not a market for magical items. Rare magical materials, powerful enchantments, and specialist magical craftsmanship must normally be sought elsewhere.
 }}
 
 {{pageNumber,auto Act 1 --- Hearthglen}}
@@ -858,7 +916,7 @@ The following schools are represented among Hearthglen's priests, mages, and oth
 
 **Mentalism** is part of Hearthglen's arcane tradition and can be studied through its trained mages.
 
-{{demonbox
+{{demonbox,margin-top:1cm
 ### Using the Book of Magic
 
 If the *Book of Magic* is used, several additional schools are represented in Hearthglen.
