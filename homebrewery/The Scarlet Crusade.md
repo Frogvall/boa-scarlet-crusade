@@ -68,7 +68,7 @@ The Homebrewery
 
 <br/><br/><br/><br/><br/><br/>
 
-{{toc,width:50%
+{{toc
 
 [**Introduction**](#p4) {{number 3}}
 
@@ -80,12 +80,28 @@ The Homebrewery
 
 &emsp;[Player Characters](#p10) {{number 9}}
 
-[**Act 1 --- New Blood**](#p11) {{number 10}}
+## Act 1
+[New Blood](#p11)
 
 &emsp;[Running The Act](#p11) {{number 10}}
 
-&emsp;[Hearthglen](#p13) {{number 12}}
+&emsp;[Shape of The Act](#p13) {{number 12}}
 
+[**Hearthglen**](#p14) {{number 13}}
+
+&emsp;[The Situation](#p14) {{number 13}}
+
+&emsp;[Locations](#p16) {{number 15}}
+
+&emsp;[Goods and Services](#p20) {{number 19}}
+
+&emsp;[Magical Study](#p21) {{number 20}}
+
+&emsp;[Bringing It to Life](#p22) {{number 21}}
+
+[**Trouble at the Mill**](#p23) {{number 22}}
+
+&emsp;[The Situation](#p23) {{number 22}}
 
 }}
 
@@ -495,7 +511,7 @@ Roll once for each regular or voluntary patrol.
 {{pageNumber,auto Act 1 --- New Blood}}
 \page
 
-## The Shape of the Act
+## Shape of the Act
 
 The four adventures gradually expand the characters' place in Hearthglen and their understanding of the war around them.
 
@@ -700,16 +716,18 @@ He is a useful NPC when the player characters need an officer who may actually a
 
 Durgen should be competent enough that his presence is reassuring without turning him into the solution to the player characters' problems.
 
-#### Elric Vane
+#### Erica Vane
 
-is a fellow recruit and one of the recurring faces in the barracks. He is a recent recruit of roughly the same standing as the player characters.
+is a fellow recruit and one of the recurring faces in the barracks. She is a recent recruit of roughly the same standing as the player characters.
 
-Elric is capable but inexperienced. He is eager to prove that he belongs and initially believes strongly in the Crusade's mission without being especially ideological about it. He can train beside the player characters, share meals with them, complain about assignments, celebrate victories, and occasionally be sent on different missions.
+Erica is capable but inexperienced. She is eager to prove that she belongs and initially believes strongly in the Crusade's mission without being especially ideological about it. She can train beside the player characters, share meals with them, complain about assignments, celebrate victories, and occasionally be sent on different missions.
 
-Elric's importance is not what he knows. It is that he begins the campaign standing approximately where the player characters do and gain in skill and reputation in parallell to the player characters.
+Erica's importance is not what she knows. It is that she begins the campaign standing approximately where
 
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
+
+the player characters do and gain in skill and reputation in parallell to the player characters.
 
 ### 3. The Chapel
 
@@ -874,7 +892,7 @@ Most of these stories should remain exactly that: rumors, complaints, misunderst
 
 make the common hall useful as a recurring social location.
 
-Elric Vane often spends time here when off duty, while Durgen may sit down with soldiers after returning from patrol. Radley appears less predictably, sometimes with Bloodshot asleep beneath the table.
+Erica Vane often spends time here when off duty, while Durgen may sit down with soldiers after returning from patrol. Radley appears less predictably, sometimes with Bloodshot asleep beneath the table.
 
 Lorik rarely stays long, and Taelan almost never visits casually. Their presence should therefore feel more significant when it does occur.
 
@@ -1021,6 +1039,8 @@ As with the core schools, Hearthglen normally provides instruction only up to le
 
 ## Bringing It to Life
 
+Hearthglen works best when it feels like a place the characters live in rather than somewhere they visit between adventures. The following advice can help establish that sense of familiarity and give the people, routines, and relationships of the settlement room to develop during the act.
+
 ### Let Hearthglen Become Home
 
 The recurring people of Hearthglen should appear outside the adventures in which they are immediately useful.
@@ -1033,13 +1053,19 @@ The recurring people of Hearthglen should appear outside the adventures in which
 
 * High Clerist Mara Voss tends more wounded people than just the characters.
 
-* Initiate Elric Vane trains, works, complains, celebrates, and fails alongside his peers.
+* Initiate Erica Vane trains, works, complains, celebrates, and fails alongside her peers.
 
 Let these people occasionally exist without asking anything of the player characters. Someone may simply share a table with them. Someone may wave from across the yard. Someone they helped weeks ago may remember their name. These small moments are what turn a collection of NPCs into a community.
 
 ### Recurring Faces
 
 Do not seed every conversation with clues, warnings, or future plot. For now, many of Hearthglen's people are simply comrades. Give important recurring NPCs enough ordinary table time that the players form their own opinions of them. Those relationships can become valuable later, but they should feel real before they become useful to the story.
+
+### Let the Characters Have a Routine
+
+As Hearthglen becomes familiar, let the players decide how their characters spend some of their quieter time.
+
+They may develop favorite places, seek out particular people, establish habits, or return to conversations without waiting for the Gamemaster to prompt them. A place begins to feel like home when the characters choose to spend time there even when no adventure requires it.
 
 ### Trust, Not Reputation
 
@@ -1154,7 +1180,7 @@ Bloodshot gets a boon on any roll relying on smell.
 \page
 
 * Highlord Taelan Fordring
-* Initiate Elric Vane
+* Initiate Erica Vane
 * High Clerist Mara Voss
 * Quartermaster Brenna Holt
 * Sergeant Alexandria Beatrix
