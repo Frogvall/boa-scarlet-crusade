@@ -27,7 +27,7 @@ Auvreannia
 
 ### VERSION:
 
-v0.1
+v0.2
 
 ### CREDITS:
 
@@ -48,7 +48,9 @@ Except for separately credited background textures and other design assets, the 
 
 These artists and studios are credited as visual influences only. They did not contribute to, authorize, sponsor, or endorse this project.<br/>No affiliation with them is claimed or implied.
 
-[Jiangfeng Feng](https://www.artstation.com/jiangfeng_feng)
+[Caroline Gariba](https://www.carolinegariba.com),
+[Jiangfeng Feng](https://www.artstation.com/jiangfeng_feng),
+[Steve Prescott](https://www.steveprescott.com)
 
 :
 
@@ -103,6 +105,10 @@ The Homebrewery
 
 &emsp;[The Situation](#p23) {{number 22}}
 
+&emsp;[The Assignment](#p24) {{number 23}}
+
+&emsp;[Locations](#p24) {{number 23}}
+
 }}
 
 {{pageNumber,auto Contents}}
@@ -119,7 +125,7 @@ The campaign follows their service from those first assignments through a growin
 The campaign is divided into five acts. Each act marks a change in the player characters' understanding of the war, the Scarlet Crusade, and their own place within it. Their earliest duties should feel necessary, ordinary, and often worthwhile, giving them time to know Hearthglen, trust their comrades, and understand why the Crusade exists before that certainty is challenged.
 
 {{dragonbox
-### FOR THE Gamemaster ONLY
+### For the Gamemaster Only
 
 This book is intended for the Gamemaster. Players should stop reading here.
 
@@ -217,12 +223,12 @@ The Cult of the Damned survives alongside the Scourge as its living hand. Its me
 
 The Cult's presence is particularly important to the atmosphere of the campaign. A ghoul can usually be recognized for what it is. A cultist cannot.
 
-{{pageNumber,auto Introduction}}
-\page
-
 The Cult has long been associated with the corruption of Lordaeron and with Scholomance, the School of Necromancy beneath Caer Darrow. Even after the kingdom's fall, cultists continue to spread plague, create undead and support Scourge operations.
 
 This means that Scarlet suspicion is sometimes justified. There really are traitors, infiltrators and plague-bearers among the living. The danger lies not in recognizing that fact, but in what the Crusade gradually becomes willing to do because of it.
+
+{{pageNumber,auto Introduction}}
+\page
 
 ### The Forsaken
 
@@ -1090,6 +1096,66 @@ Do not rush these quieter periods simply because nothing dramatic is happening. 
 {{pageNumber,auto Act 1 --- Hearthglen}}
 \page
 
+{{wide
+![trouble at the mill](https://i.imgur.com/AiLG1ed.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+}}
+
+
+
+# Trouble at the Mill
+{title="Act 1"}
+
+The lumber mills outside Hearthglen supply the Scarlet Crusade with timber for palisades, repairs, carts, fuel, and new construction. When workers at one of the mills are attacked by unusually aggressive wildlife, work comes to a halt. The player characters, newly recruited into the Crusade, are ordered to make the area safe.
+
+What first appears to be a simple matter of driving off dangerous animals leads to a forgotten storehouse and a grim remnant of Lordaeron's fall.
+
+## The Situation
+
+Several days ago, a group of lumber workers noticed a large bear prowling unusually close to the mill. At first they ignored it. Wild animals are common in the forests around Hearthglen, and hungry predators occasionally venture near settled areas.
+
+The following day the bear attacked one of the workers without warning. The man survived, badly mauled, after his companions drove the animal away with axes and burning brands. Since then, more tracks have been found around the lumber yard and another worker claims to have seen a second animal moving through the trees. The mill foreman has halted work until the area is safe.
+
+The bears are not undead and are not being controlled by the Scourge. They have been feeding from an old cache of provisions hidden in a forgotten storehouse in the forest. The storehouse dates from before the fall of Hearthglen. Among the abandoned supplies are several crates of grain and other foodstuffs shipped from **Andorhal** shortly before the plague of undeath swept through Lordaeron. The contents have long since rotted, but the corruption that once tainted them remains. The bears broke into the storehouse while scavenging for food. What they consumed has left them diseased, maddened, and unusually aggressive.
+
+If the player characters simply kill the animals and return to Hearthglen, **Huntsman Radley** recognizes from their report that the behavior is abnormal. Killing the bears may remove the immediate danger, but it does not explain why healthy animals suddenly began approaching and attacking the mill. If necessary, Radley urges them to return and find the source.
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+There is no conspiracy behind the incident. No Scarlet officer is behaving suspiciously, no Cult of the Damned agent is involved, and the discovery has no connection to Grand Crusader Dathrohan. This is simply one of the many old wounds that Lordaeron has not yet finished bleeding from.
+
+## The Assignment
+
+The player characters receive their orders from a duty officer in Hearthglen, acting under the authority of the local command.
+
+The matter is presented plainly. Work at one of the lumber mills has stopped after an animal attack. Timber is too important to Hearthglen's defenses for the mill to remain idle. The player characters are ordered to investigate the area, deal with any dangerous animals, and ensure that the workers can return safely.
+
+The officer knows little more than this:
+
+- One worker was badly injured by a bear.
+- The attack happened close to the mill.
+- Several workers claim that more animals have been seen nearby.
+- Nobody has been killed.
+- The foreman refuses to resume work until the area has been cleared.
+
+{{wide
+![the lumber mill](https://i.imgur.com/Lu0brN4.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+}}
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+## Locations
+
+### 1. The Lumber Mill
+
+> The steady rhythm of axes and saws is conspicuously absent. Felled trunks lie where they were abandoned, some still half-stripped of their branches. A broad timber building stands beside stacks of cut lumber, its great saw silent.
+>
+> A handful of workers linger near the main building, armed with wood axes and long-handled tools. None seem particularly eager to return to the forest.
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
 # The Scarlet Crusaders
 {title="Appendix A"}
 
@@ -1180,10 +1246,21 @@ Bloodshot gets a boon on any roll relying on smell.
 \page
 
 * Highlord Taelan Fordring
+![highlord taelan fordring](https://i.imgur.com/UrD5iQF.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
+<br/><br/>
 * Initiate Erica Vane
+![initiate erica vane](https://i.imgur.com/gX5aP2R.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
 * High Clerist Mara Voss
+![high clerist mara voss](https://i.imgur.com/xIYvxQa.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
+<br/><br/>
 * Quartermaster Brenna Holt
+![quartermaster brenna holt](https://i.imgur.com/SUz03v9.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
+
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+\page
+
 * Sergeant Alexandria Beatrix
+![sergeant alexandria beatrix](https://i.imgur.com/6YTCOxS.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
 
 <!--{{dragonbox
 ### Sergeant Alexandria Beatrix
