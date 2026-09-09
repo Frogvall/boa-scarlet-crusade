@@ -149,6 +149,9 @@ This book is written for the Gamemaster rather than the players. It describes th
 
 The first of these begins in Hearthglen, where the characters' training has ended and their real service is about to begin.
 
+### Player Maps
+High resolution versions of the maps included in this book, with or without numbers, can be downloaded from this project's [GitHub repository](https://github.com/Frogvall/boa-scarlet-crusade/tree/homebrewery/homebrewery/images/maps ).
+
 {{pageNumber,auto Introduction}}
 \page
 
