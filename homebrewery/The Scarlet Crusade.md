@@ -1173,7 +1173,7 @@ They can tell the player characters the following:
   - The injured worker has already been taken back to Hearthglen for treatment.
 - **The Foreman:** The foreman wants the problem solved quickly but refuses to order the workers back into the forest until someone from the Crusade declares the area safe. The foreman can point out where the attack took place and where tracks have most recently been seen.
 - **Tracks:** The tracks are easy to find once the player characters know where to look. No roll is needed to establish that a large animal has repeatedly moved through the area.<br/>
-A successful HUNTING & FISHING roll could also reveals more:
+A successful {{med HUNTING & FISHING}} roll could also reveals more:
   - The animal has followed roughly the same route several times.
   - It has not been stalking the lumber workers as prey.
   - Its trail leads deeper into the forest.
@@ -1187,8 +1187,8 @@ A successful HUNTING & FISHING roll could also reveals more:
 >
 > The smell here is unpleasant: blood, wet fur, and something sour beneath it.
 
-- **The Blood:** The workers wounded the bear before driving it away. If the player characters search the area, they find drops of dark blood leading into the forest. A successful BEAST LORE roll reveals that something about the blood is wrong. It is thick, unusually dark, and carries a foul smell reminiscent of spoiled meat. A character with relevant knowledge of animals, disease, magic, or the undead may conclude that the bear is suffering from something more severe than ordinary illness.
-- **The Bear:** The wounded bear is not far away. Depending on the player characters' actions, they may track it to a shallow depression among the trees or encounter it returning toward the mill. The creature is visibly sick. Its ribs show beneath patchy fur. Sores mark its muzzle and flanks. Dark saliva hangs from its jaws. It moves with an awkward stiffness until threatened, at which point it attacks with frightening violence. The bear fights like a terrified and maddened animal, not like a tactical monster. Unlike a normal bear, it will fight to its death, even if a clear opportunity for escape presents itself.
+- **The Blood:** The workers wounded the bear before driving it away. If the player characters search the area, they find drops of dark blood leading into the forest. A successful {{med BEAST LORE}} roll reveals that something about the blood is wrong. It is thick, unusually dark, and carries a foul smell reminiscent of spoiled meat. A character with relevant knowledge of animals, disease, magic, or the undead may conclude that the bear is suffering from something more severe than ordinary illness.
+- **The Bear:** The wounded bear is not far away. Depending on the player characters' actions, they may track it to a shallow depression among the trees or encounter it returning toward the mill. The creature is visibly sick. Its ribs show beneath patchy fur. Sores mark its muzzle and flanks. Dark saliva hangs from its jaws. It moves with an awkward stiffness until threatened, at which point it attacks with frightening violence. The bear fights like a terrified and maddened animal, not like a tactical monster. Unlike a normal bear, it will fight to its death, even if a clear opportunity for escape presents itself. Stats for the diseased bear can be found in Appendix C.
 - **Examining the Bear:** If the player characters inspect the animal after defeating it, they can easily determine that it is badly diseased.<br/>
 No roll is needed to notice:
 
@@ -1198,7 +1198,7 @@ No roll is needed to notice:
   - extreme aggression,
   - signs of malnutrition.
 
-  A successful BEAST LORE skill can reveal that the animal's stomach is distended despite its otherwise starved appearance. If the carcass is opened, its stomach contains a foul mass of rotten vegetation, scraps of old cloth or sacking, and partly digested grain. The grain is badly decomposed, but clearly did not grow naturally in the forest.
+  A successful {{med BEAST LORE}} skill can reveal that the animal's stomach is distended despite its otherwise starved appearance. If the carcass is opened, its stomach contains a foul mass of rotten vegetation, scraps of old cloth or sacking, and partly digested grain. The grain is badly decomposed, but clearly did not grow naturally in the forest.
 - **Following the Trail:** Tracks continue deeper into the woods. If the player characters follow them, proceed to **The Old Trail**. If they instead return to Hearthglen believing their task complete, see **Radley's Doubts** below.
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
@@ -1232,7 +1232,7 @@ If they still refuse to investigate, the underlying problem remains. Another ani
 >
 > Then, beneath the smell of wet earth and pine, comes another scent: something rotten.
 
-- **The Tracks:** The animal tracks grow more numerous as the player characters continue. They find evidence that several animals have passed this way repeatedly. A successful HUNTING & FISHING roll reveals that the animals are not wandering randomly. They have been travelling back and forth between the same location and the surrounding forest.
+- **The Tracks:** The animal tracks grow more numerous as the player characters continue. They find evidence that several animals have passed this way repeatedly. A successful {{med HUNTING & FISHING}} roll reveals that the animals are not wandering randomly. They have been travelling back and forth between the same location and the surrounding forest.
 - **Bloodshot:** If Radley accompanies the player characters, Bloodshot becomes increasingly uneasy as they approach the source.<br/>
 The wolf may:
 
@@ -1495,3 +1495,48 @@ Foulmane is a rare ghoul with Ferocity equals the number of player characters mi
 ![ghoul](https://i.imgur.com/3EEQj0P.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-1.0cm,margin-bottom:-1.5cm}
 
 {{pageNumber,auto Appendix B --- The Scourge}}
+\page
+
+# Other NPCs
+{title="Appendix C"}
+
+{{wide
+![diseased bear](https://i.imgur.com/dsTdELq.png) {height:400px,mix-blend-mode:multiply,margin-left:2cm,margin-top:1cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+{{paperbox,wide,column-count:2
+
+### Diseased Wildlife
+
+<br/>Diseased wildlife are common throughout the Eastern and Western Plaguelands. These animals have been exposed to the lingering corruption of the plague and are already beginning to change, though they have not yet become undead.
+
+Any ordinary animal can be turned into a diseased version by adding the Resistance and Fearless properties below. Resistance represents a body that has begun to lose its normal response to pain, injury, and physical trauma, allowing the creature to endure wounds that would quickly drive off or kill a healthy animal. Fearless reflects the same corruption of natural instinct: diseased animals no longer retreat from danger as readily and may continue attacking despite fire, injury, or overwhelming opposition.
+
+These properties make diseased wildlife considerably more dangerous than their healthy counterparts, particularly to poorly equipped characters. As the characters gain access to magical weapons and more powerful
+
+\column
+
+<br/>magic, however, such creatures become much easier to overcome.
+
+The bear presented here is an example of a diseased animal and appears in *Trouble at the Mill*.
+
+### Bear
+
+|                                                 |
+|:------------------------------------------------|
+| **Movement:** 12                                |
+| **HP:** 20                                      |
+| **Armor:** ---                                  |
+| **Skills:** Awareness 10, Evade 8               |
+| **Weapons:** Bite 12 (2D8)                      |
+
+#### Resistance:
+
+All non-magical damage is halved (rounded up).
+
+#### Fearless:
+
+Diseased wildlife are immune to fear.
+}}
+
+{{pageNumber,auto Appendix C --- Other NPCs}}
