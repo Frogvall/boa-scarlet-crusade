@@ -85,6 +85,7 @@ The Homebrewery
 ## Act 1
 [New Blood](#p11)
 
+
 &emsp;[Running The Act](#p11) {{number 10}}
 
 &emsp;[Shape of The Act](#p13) {{number 12}}
@@ -108,6 +109,10 @@ The Homebrewery
 &emsp;[The Assignment](#p24) {{number 23}}
 
 &emsp;[Locations](#p24) {{number 23}}
+
+&emsp;[Back to Hearthglen](#p29) {{number 28}}
+
+&emsp;[Ending](#p29) {{number 28}}
 
 }}
 
@@ -1100,8 +1105,6 @@ Do not rush these quieter periods simply because nothing dramatic is happening. 
 ![trouble at the mill](https://i.imgur.com/AiLG1ed.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
 }}
 
-
-
 # Trouble at the Mill
 {title="Act 1"}
 
@@ -1152,6 +1155,160 @@ The officer knows little more than this:
 > The steady rhythm of axes and saws is conspicuously absent. Felled trunks lie where they were abandoned, some still half-stripped of their branches. A broad timber building stands beside stacks of cut lumber, its great saw silent.
 >
 > A handful of workers linger near the main building, armed with wood axes and long-handled tools. None seem particularly eager to return to the forest.
+
+- **The Mill:** The mill normally employs several dozen workers, although only a handful remain when the player characters arrive. The others have returned to Hearthglen or refused to leave their nearby quarters until the danger has passed.
+- **The Workers:** The workers are frightened, but not helpless. Most have lived in the Plaguelands long enough to know that the wilderness is dangerous. What has frightened them is the animal's behavior.<br/>
+They can tell the player characters the following:
+
+  - The bear approached in daylight.
+  - It showed little fear of shouting, fire, or people.
+  - It appeared thin and unhealthy despite being very large.
+  - Its fur was patchy and matted.
+  - It continued attacking even after being wounded.
+  - The workers have found additional tracks around the edge of the logging area.
+  - At least one worker believes there is more than one bear.
+  - The injured worker has already been taken back to Hearthglen for treatment.
+- **The Foreman:** The foreman wants the problem solved quickly but refuses to order the workers back into the forest until someone from the Crusade declares the area safe. The foreman can point out where the attack took place and where tracks have most recently been seen.
+- **Tracks:** The tracks are easy to find once the player characters know where to look. No roll is needed to establish that a large animal has repeatedly moved through the area.<br/>
+A successful HUNTING & FISHING roll could also reveals more:
+  - The animal has followed roughly the same route several times.
+  - It has not been stalking the lumber workers as prey.
+  - Its trail leads deeper into the forest.
+  - There are tracks from at least two animals.
+
+  The trail can be followed toward the attack site and, eventually, the old storehouse.
+
+### 2. The Attack Site
+
+> Broken branches and churned earth mark the place where the workers made their stand. Dark stains have dried across the grass, and a splintered axe handle lies beside a tree trunk scored with deep claw marks.
+>
+> The smell here is unpleasant: blood, wet fur, and something sour beneath it.
+
+- **The Blood:** The workers wounded the bear before driving it away. If the player characters search the area, they find drops of dark blood leading into the forest. A successful BEAST LORE roll reveals that something about the blood is wrong. It is thick, unusually dark, and carries a foul smell reminiscent of spoiled meat. A character with relevant knowledge of animals, disease, magic, or the undead may conclude that the bear is suffering from something more severe than ordinary illness.
+- **The Bear:** The wounded bear is not far away. Depending on the player characters' actions, they may track it to a shallow depression among the trees or encounter it returning toward the mill. The creature is visibly sick. Its ribs show beneath patchy fur. Sores mark its muzzle and flanks. Dark saliva hangs from its jaws. It moves with an awkward stiffness until threatened, at which point it attacks with frightening violence. The bear fights like a terrified and maddened animal, not like a tactical monster. Unlike a normal bear, it will fight to its death, even if a clear opportunity for escape presents itself.
+- **Examining the Bear:** If the player characters inspect the animal after defeating it, they can easily determine that it is badly diseased.<br/>
+No roll is needed to notice:
+
+  - blackened gums,
+  - foul-smelling saliva,
+  - extensive sores,
+  - extreme aggression,
+  - signs of malnutrition.
+
+  A successful BEAST LORE skill can reveal that the animal's stomach is distended despite its otherwise starved appearance. If the carcass is opened, its stomach contains a foul mass of rotten vegetation, scraps of old cloth or sacking, and partly digested grain. The grain is badly decomposed, but clearly did not grow naturally in the forest.
+- **Following the Trail:** Tracks continue deeper into the woods. If the player characters follow them, proceed to **The Old Trail**. If they instead return to Hearthglen believing their task complete, see **Radley's Doubts** below.
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+![the attack site](https://i.imgur.com/ecYgrta.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+
+
+{{dragonbox,wide,column-count:2,margin-top:0.5cm
+### Radley's Doubts
+
+If the player characters return to Hearthglen after killing the immediate threat without investigating further, their original assignment can reasonably be considered complete.
+
+During their report, however, Huntsman Radley hears enough to become concerned. She asks practical questions about the animal: how close it came to the mill, whether it appeared well-fed, how it reacted to fire and injury, and whether the characters examined what it had been eating. If their description confirms the bear's strange condition, Radley makes her view clear:
+
+*"That's not normal. A starving bear might risk the mill. A sick one might lose its fear. But you've described something doing both, and coming back to the same place. Either something drove it there, or it found something worth returning for."*{color:var(--demongreen)}
+
+Radley recommends that the area be investigated before the workers are allowed back into the forest.
+
+If the player characters have already discovered the strange food in the bear's stomach or followed the tracks themselves, Radley instead recognizes that they have reached the same conclusion and offers whatever practical assistance seems useful.
+
+If they still refuse to investigate, the underlying problem remains. Another animal appears near the mill within the next few days, making it clear that the first bear was only a symptom.
+}}
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+### 3. The Old Trail
+
+> The logging paths soon disappear behind you. The forest grows denser here, the ground thick with old leaves and damp moss. The tracks weave between the trees rather than following any human trail.
+>
+> Then, beneath the smell of wet earth and pine, comes another scent: something rotten.
+
+- **The Tracks:** The animal tracks grow more numerous as the player characters continue. They find evidence that several animals have passed this way repeatedly. A successful HUNTING & FISHING roll reveals that the animals are not wandering randomly. They have been travelling back and forth between the same location and the surrounding forest.
+- **Bloodshot:** If Radley accompanies the player characters, Bloodshot becomes increasingly uneasy as they approach the source.<br/>
+The wolf may:
+
+  - stop and sniff the air,
+  - growl toward the trees,
+  - refuse to investigate scraps of contaminated food,
+  - whine and stay close to Radley,
+  - pull away from the final approach.
+
+  Radley does not immediately know what Bloodshot senses. She merely trusts the animal enough to take the warning seriously.
+- **A Second Animal:** If another combat encounter is desirable, the player characters can encounter a second infected bear or a small number of similarly affected wolves along the trail. This encounter is optional, as the purpose of the adventure is not to exhaust the player characters through repeated fights, and one dangerous animal may be sufficient.
+
+- **Following the Trail:** Eventually the tracks lead to **The Old Storehouse**.
+
+### 4. The Old Storehouse
+
+> A low stone wall emerges from beneath the moss ahead. Most of the structure beyond it has collapsed, swallowed by roots and undergrowth. Only part of a timber roof remains, leaning against the rock face like a broken wing. The door is long gone.
+>
+> Inside, old crates have been smashed open. Splintered boards, rotten sacking, bones, and dark clumps of spoiled grain cover the floor. The stench is overwhelming.
+
+- **The Storehouse:** The building predates the fall of Hearthglen. It may once have been a roadside storehouse, a military supply cache, or simply a sheltered place where shipments were temporarily stored before being moved into town. Whatever its exact purpose, it was abandoned suddenly and forgotten.
+
+{{wide
+![the old storehouse](https://i.imgur.com/aq5bkTD.png) {height:400px,mix-blend-mode:multiply,margin-left:0.8cm,margin-top:0cm,margin-bottom:-0.5cm,transform:scaleX(1)}
+}}
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+{{wide
+![the old storehouse](https://i.imgur.com/9jmALRB.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+- **The Crates:** Most of the crates are ruined beyond recognition, but several still bear faded markings. No roll is required to read the clearest surviving text: **ANDORHAL**. Other markings indicate quantities, shipment numbers, merchants, or mundane logistical information. Nothing about the crates appears sinister. A careful search reveals that at least some contained grain and preserved food.
+
+- **The Date:** A surviving manifest, stamped board, wax tag, or other record indicates that the shipment arrived shortly before Hearthglen fell during the plague. Characters familiar with Lordaeron's recent history understand the significance immediately. Others may know only that the supplies are several years old. If Radley is present, she recognizes the implications even if she does not know every detail of the old plague shipments. She has no desire to touch the grain.
+
+{{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+- **The Grain:** The remaining grain is blackened and clumped together with damp decay. Pale growths thread through parts of it, while other kernels have hardened into dry, dark knots. It smells wrong even beneath the general rot of the storehouse. The animals have clearly been eating from it. Their tracks, droppings, claw marks, and disturbed crates leave little doubt. A character with suitable magical or medical knowledge may recognize lingering corruption associated with the plague of undeath. Exactly how potent the remnants remain is not important. They are dangerous enough that consuming them has sickened the local wildlife.
+
+- ***What Happened Here:*** This is not part of some Scourge plot or Burning Legion scheme. It is just simply an old shipment of infected grain that ended up being stored close to Hearthglen before its fall, and has since been forgotten. Hungry animals found the crates, broke them open and ate from them.
+
+- **Another Bear:** If the Gamemaster wants the adventure to culminate in a final combat, another infected bear may be inside or near the storehouse. It may be feeding when the player characters arrive or guarding the area simply because it has come to associate the place with food. If combat has already played a sufficient role in the adventure, the storehouse can instead be empty. The discovery itself is the climax.
+
+## Back to Hearthglen
+
+Once the old supplies are discovered, the player characters have enough information to report the real source of the attacks. Scarlet Crusade authorities treat the matter seriously. The correct response is straightforward:
+
+- the storehouse is cordoned off
+- workers are forbidden from entering
+- the remaining supplies are inspected
+- contaminated food and affected animal carcasses are burned
+- anyone who handled the material is checked in the infirmary for illness
+- the surrounding forest is watched for further affected wildlife
+
+This is a great opportunity for the Gamemaster to show the player characters that the Scarlet Crusade are completely reasonable. No one suggests salvaging the grain. No one attempts to conceal the discovery. No officer has an ulterior motive. The Scarlet Crusade does exactly what it should do, and does so effectively.
+
+### The Old Shipment
+
+Older inhabitants of Hearthglen may react strongly to the markings from Andorhal, if the player characters speak about them. One may quietly observe: *"We thought all of it had been burned."* For characters unfamiliar with Hearthglen's history, this provides an opportunity to learn that shipments of infected grain from Andorhal played a role in the catastrophe that consumed Lordaeron.
+
+## Ending
+
+Once the remaining animals have been dealt with and the contaminated storehouse secured, work at the lumber mill resumes.
+
+The workers are grateful, though their gratitude is practical rather than heroic. Hearthglen needs timber, and they can now go back to producing it.
+
+The player characters have completed their first assignment by:
+
+- protecting civilians,
+- securing an important part of Hearthglen's infrastructure,
+- recognizing or uncovering a danger greater than the immediate animal attack,
+- and preventing further exposure to the old plague remnants.
+
+There is no hidden agenda waiting behind their success. They were sent to protect Hearthglen. They did.
+
+And for now, the Scarlet Crusade is exactly what it claims to be: people standing between the living and what remains of Lordaeron's ruin.
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
 \page
