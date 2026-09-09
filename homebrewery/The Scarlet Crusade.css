@@ -303,8 +303,8 @@
     padding             : 0;
 
     ul {
-      list-style          : "➤   ";
-      margin            : 0;
+      list-style        : "⯌  ";
+      margin            : 0 0 0 -.5em;
     }
     li {
       margin-left       : 1.5em;
@@ -329,19 +329,24 @@
   }
 
   :not(.dragonbox,.demonbox) > ul li {
-    & > strong:first-child {
-      color           : var(--accent-color);
-    }
-    & > em:first-child strong {
-      color           : var(--dragonred);
+    & > strong:first-child,
+    & > p:first-child > strong:first-child {
+      color: var(--accent-color);
     }
 
-    &:has(strong:first-child)::marker {
-      color           : var(--accent-color);
+    & > em:first-child strong,
+    & > p:first-child > em:first-child strong {
+      color: var(--dragonred);
     }
 
-    &:has(em:first-child strong)::marker {
-      color           : var(--dragonred);
+    &:has(> strong:first-child)::marker,
+    &:has(> p:first-child > strong:first-child)::marker {
+      color: var(--accent-color);
+    }
+
+    &:has(> em:first-child strong)::marker,
+    &:has(> p:first-child > em:first-child strong)::marker {
+      color: var(--dragonred);
     }
   }
 
