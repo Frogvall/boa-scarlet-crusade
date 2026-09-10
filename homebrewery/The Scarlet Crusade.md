@@ -112,8 +112,6 @@ The Homebrewery
 
 &emsp;[Back to Hearthglen](#p29) {{number 28}}
 
-&emsp;[Ending](#p29) {{number 28}}
-
 }}
 
 {{pageNumber,auto Contents}}
@@ -1212,7 +1210,7 @@ No roll is needed to notice:
 
 If the player characters return to Hearthglen after killing the immediate threat without investigating further, their original assignment can reasonably be considered complete.
 
-During their report, however, Huntsman Radley hears enough to become concerned. She asks practical questions about the animal: how close it came to the mill, whether it appeared well-fed, how it reacted to fire and injury, and whether the characters examined what it had been eating. If their description confirms the bear's strange condition, Radley makes her view clear:
+During their report, however, Huntsman Radley is within earshot and hears enough to become concerned and interfere. She asks practical questions about the animal: how close it came to the mill, whether it appeared well-fed, how it reacted to fire and injury, and whether the characters examined what it had been eating. If their description confirms the bear's strange condition, Radley makes her view clear:
 
 *"That's not normal. A starving bear might risk the mill. A sick one might lose its fear. But you've described something doing both, and coming back to the same place. Either something drove it there, or it found something worth returning for."*{color:var(--demongreen)}
 
@@ -1290,28 +1288,20 @@ Once the old supplies are discovered, the player characters have enough informat
 - anyone who handled the material is checked in the infirmary for illness
 - the surrounding forest is watched for further affected wildlife
 
-This is a great opportunity for the Gamemaster to show the player characters that the Scarlet Crusade are completely reasonable. No one suggests salvaging the grain. No one attempts to conceal the discovery. No officer has an ulterior motive. The Scarlet Crusade does exactly what it should do, and does so effectively.
+This is a great opportunity for the Gamemaster to show the player characters that the Scarlet Crusade are completely reasonable. They do exactly what they should do, and does so effectively.
 
 ### The Old Shipment
 
 Older inhabitants of Hearthglen may react strongly to the markings from Andorhal, if the player characters speak about them. One may quietly observe: *"We thought all of it had been burned."* For characters unfamiliar with Hearthglen's history, this provides an opportunity to learn that shipments of infected grain from Andorhal played a role in the catastrophe that consumed Lordaeron.
 
-## Ending
+### Epilogue
 
-Once the remaining animals have been dealt with and the contaminated storehouse secured, work at the lumber mill resumes.
+Once the remaining animals have been dealt with and the contaminated storehouse secured, work at the lumber mill resumes. The workers are grateful and the player characters might experience a friendly greeting or an appreciative nod when passing by in the common hall or the streets.  is exactly what it claims to be: people standing between the living and what remains of Lordaeron's ruin.
 
-The workers are grateful, though their gratitude is practical rather than heroic. Hearthglen needs timber, and they can now go back to producing it.
+\column
 
-The player characters have completed their first assignment by:
+![the old storehouse](https://i.imgur.com/Vpnc5sb.png) {height:600px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
 
-- protecting civilians,
-- securing an important part of Hearthglen's infrastructure,
-- recognizing or uncovering a danger greater than the immediate animal attack,
-- and preventing further exposure to the old plague remnants.
-
-There is no hidden agenda waiting behind their success. They were sent to protect Hearthglen. They did.
-
-And for now, the Scarlet Crusade is exactly what it claims to be: people standing between the living and what remains of Lordaeron's ruin.
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
 \page
