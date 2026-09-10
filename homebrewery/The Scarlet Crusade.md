@@ -1279,16 +1279,7 @@ The wolf may:
 
 ## Back to Hearthglen
 
-Once the old supplies are discovered, the player characters have enough information to report the real source of the attacks. Scarlet Crusade authorities treat the matter seriously. The correct response is straightforward:
-
-- the storehouse is cordoned off
-- workers are forbidden from entering
-- the remaining supplies are inspected
-- contaminated food and affected animal carcasses are burned
-- anyone who handled the material is checked in the infirmary for illness
-- the surrounding forest is watched for further affected wildlife
-
-This is a great opportunity for the Gamemaster to show the player characters that the Scarlet Crusade are completely reasonable. They do exactly what they should do, and does so effectively.
+Once the old supplies are discovered, the player characters have enough information to report the real source of the attacks. Scarlet Crusade authorities treat the matter seriously. The storehouse is cordoned off and the workers are forbidden from entering. The remaining supplies are inspected by Mara Voss and her priests, before being burned together with the animal carcasses. The surrounding forest is watched for further affected wildlife, and activity led by Huntsman Radley. Furthermore, anyone who handled the material is brought to the infirmary and checked for illness. This includes the player characters, giving the Gamemaster a chance to narrate or roleplay a very thorough physical and magical scan. It also helps establish that the Scarlet Crusade is acting entirely reasonably. They take exactly the precautions the situation calls for, and they carry them out efficiently.
 
 ### The Old Shipment
 
@@ -1296,7 +1287,7 @@ Older inhabitants of Hearthglen may react strongly to the markings from Andorhal
 
 ### Epilogue
 
-Once the remaining animals have been dealt with and the contaminated storehouse secured, work at the lumber mill resumes. The workers are grateful and the player characters might experience a friendly greeting or an appreciative nod when passing by in the common hall or the streets.  is exactly what it claims to be: people standing between the living and what remains of Lordaeron's ruin.
+Once the remaining animals have been dealt with and the contaminated storehouse secured, work at the lumber mill resumes. The workers are grateful and the player characters might experience a friendly greeting or an appreciative nod when passing by in the common hall or the streets.
 
 \column
 
