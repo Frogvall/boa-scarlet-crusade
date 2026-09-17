@@ -643,6 +643,9 @@
       font-size           : 14pt;
       margin-top          : 1em;
     }
+    h3:not(:first-child) {
+      text-align: center;
+    }
   }
   .picturebox {
     position              : relative;
@@ -848,6 +851,30 @@
       margin-top  : 0;
         td:not(:first-child) {
           font-family         : "Caveat";
+      }
+    }
+  }
+
+  .invisibletable {
+    table {
+      margin: 0;
+      padding: 0;
+      border-collapse: collapse;
+      background: transparent;
+
+      thead,
+      tbody,
+      tr,
+      th,
+      td {
+        background: transparent !important;
+        border: none !important;
+      }
+
+      th,
+      td {
+        padding: 0 !important;
+        margin: 0;
       }
     }
   }

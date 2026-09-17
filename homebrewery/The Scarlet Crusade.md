@@ -48,6 +48,7 @@ Except for separately credited background textures and other design assets, the 
 
 These artists and studios are credited as visual influences only. They did not contribute to, authorize, sponsor, or endorse this project.<br/>No affiliation with them is claimed or implied.
 
+[Alex Horley](https://www.alexhorleyart.com/),
 [Caroline Gariba](https://www.carolinegariba.com),
 [Jiangfeng Feng](https://www.artstation.com/jiangfeng_feng),
 [Steve Prescott](https://www.steveprescott.com)
@@ -584,7 +585,7 @@ In particular, note:
 * which Hearthglen NPCs the characters grow close to.
 * which officers trust or distrust their judgment.
 * whether Sergeant Alexandria Beatrix survives.
-* whether Sentinel Tomas Rell survives.
+* whether Tomas Rell survives.
 * how the characters deal with the dead during *The Missing Patrol*.
 * how much of the convoy reaches its destination in *Grain for the Living*.
 * what happens to Merek Calder.
@@ -1109,7 +1110,11 @@ Do not rush these quieter periods simply because nothing dramatic is happening. 
 # Trouble at the Mill
 {title="Act 1"}
 
-The lumber mills outside Hearthglen supply the Scarlet Crusade with timber for palisades, repairs, carts, fuel, and new construction. When workers at one of the mills are attacked by unusually aggressive wildlife, work comes to a halt. The player characters, newly recruited into the Crusade, are ordered to make the area safe.
+The lumber mills outside Hearthglen supply the Scarlet Crusade with timber for palisades, repairs, carts, fuel, and new construction. When workers at one of the mills are attacked by unusually aggressive wildlife, work comes to a halt. The player characters, newly recruited
+
+\column
+
+into the Crusade, are ordered to make the area safe.
 
 What first appears to be a simple matter of driving off dangerous animals leads to a forgotten storehouse and a grim remnant of Lordaeron's fall.
 
@@ -1171,13 +1176,14 @@ They can tell the player characters the following:
   - The injured worker has already been taken back to Hearthglen for treatment.
 - **The Foreman:** The foreman wants the problem solved quickly but refuses to order the workers back into the forest until someone from the Crusade declares the area safe. The foreman can point out where the attack took place and where tracks have most recently been seen.
 - **Tracks:** The tracks are easy to find once the player characters know where to look. No roll is needed to establish that a large animal has repeatedly moved through the area.<br/>
-A successful {{med HUNTING & FISHING}} roll could also reveals more:
+A successful {{med HUNTING & FISHING}} roll could also reveal more:
   - The animal has followed roughly the same route several times.
   - It has not been stalking the lumber workers as prey.
   - Its trail leads deeper into the forest.
   - There are tracks from at least two animals.
 
-  The trail can be followed toward the attack site and, eventually, the old storehouse.
+- **NORTH:**{color:var(--monsterbrown)} The trail leading to the attack site (#2).
+- **SOUTH:**{color:var(--monsterbrown)} The road leads back to Hearthglen.
 
 ### 2. The Attack Site
 
@@ -1187,17 +1193,12 @@ A successful {{med HUNTING & FISHING}} roll could also reveals more:
 
 - **The Blood:** The workers wounded the bear before driving it away. If the player characters search the area, they find drops of dark blood leading into the forest. A successful {{med BEAST LORE}} roll reveals that something about the blood is wrong. It is thick, unusually dark, and carries a foul smell reminiscent of spoiled meat. A character with relevant knowledge of animals, disease, magic, or the undead may conclude that the bear is suffering from something more severe than ordinary illness.
 - **The Bear:** The wounded bear is not far away. Depending on the player characters' actions, they may track it to a shallow depression among the trees or encounter it returning toward the mill. The creature is visibly sick. Its ribs show beneath patchy fur. Sores mark its muzzle and flanks. Dark saliva hangs from its jaws. It moves with an awkward stiffness until threatened, at which point it attacks with frightening violence. The bear fights like a terrified and maddened animal, not like a tactical monster. Unlike a normal bear, it will fight to its death, even if a clear opportunity for escape presents itself. Stats for the diseased bear can be found in Appendix C.
-- **Examining the Bear:** If the player characters inspect the animal after defeating it, they can easily determine that it is badly diseased.<br/>
-No roll is needed to notice:
-
-  - blackened gums,
-  - foul-smelling saliva,
-  - extensive sores,
-  - extreme aggression,
-  - signs of malnutrition.
+- **Examining the Bear:** If the player characters inspect the animal after defeating it, they can easily determine that it is badly diseased. No roll is needed to notice its blackened gums, foul-smelling saliva or extensive sores, and to realize it was unusually aggressive and severly suffered from malnutrition.
 
   A successful {{med BEAST LORE}} skill can reveal that the animal's stomach is distended despite its otherwise starved appearance. If the carcass is opened, its stomach contains a foul mass of rotten vegetation, scraps of old cloth or sacking, and partly digested grain. The grain is badly decomposed, but clearly did not grow naturally in the forest.
 - **Following the Trail:** Tracks continue deeper into the woods. If the player characters follow them, proceed to **The Old Trail**. If they instead return to Hearthglen believing their task complete, see **Radley's Doubts** below.
+- **NORTH:**{color:var(--monsterbrown)} Tracks leading to the old trail (#3).
+- **SOUTH EAST:**{color:var(--monsterbrown)} The trail leading back to the lumber mill (#1).
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
 \page
@@ -1231,19 +1232,11 @@ If they still refuse to investigate, the underlying problem remains. Another ani
 > Then, beneath the smell of wet earth and pine, comes another scent: something rotten.
 
 - **The Tracks:** The animal tracks grow more numerous as the player characters continue. They find evidence that several animals have passed this way repeatedly. A successful {{med HUNTING & FISHING}} roll reveals that the animals are not wandering randomly. They have been travelling back and forth between the same location and the surrounding forest.
-- **Bloodshot:** If Radley accompanies the player characters, Bloodshot becomes increasingly uneasy as they approach the source.<br/>
-The wolf may:
-
-  - stop and sniff the air,
-  - growl toward the trees,
-  - refuse to investigate scraps of contaminated food,
-  - whine and stay close to Radley,
-  - pull away from the final approach.
-
-  Radley does not immediately know what Bloodshot senses. She merely trusts the animal enough to take the warning seriously.
+- **Bloodshot:** If Radley accompanies the player characters, Bloodshot becomes increasingly uneasy as they approach the source. It would stop and sniff the air, growl towards the trees and refuse to investigate scraps of contaminated food. Bloodshot is uncharacteristically whiny and stays close to Radley at all times. The Huntsman seems to have a deep bond with the wolf, and she trusts the animal enough to take the warning seriously.
 - **A Second Animal:** If another combat encounter is desirable, the player characters can encounter a second infected bear or a small number of similarly affected wolves along the trail. This encounter is optional, as the purpose of the adventure is not to exhaust the player characters through repeated fights, and one dangerous animal may be sufficient.
 
-- **Following the Trail:** Eventually the tracks lead to **The Old Storehouse**.
+- **NORTH:**{color:var(--monsterbrown)} The trail leading to the old storehouse (#4).
+- **SOUTH:**{color:var(--monsterbrown)} The trail leading back to the attack site (#2).
 
 ### 4. The Old Storehouse
 
@@ -1273,9 +1266,11 @@ The wolf may:
 
 - **The Grain:** The remaining grain is blackened and clumped together with damp decay. Pale growths thread through parts of it, while other kernels have hardened into dry, dark knots. It smells wrong even beneath the general rot of the storehouse. The animals have clearly been eating from it. Their tracks, droppings, claw marks, and disturbed crates leave little doubt. A character with suitable magical or medical knowledge may recognize lingering corruption associated with the plague of undeath. Exactly how potent the remnants remain is not important. They are dangerous enough that consuming them has sickened the local wildlife.
 
-- ***What Happened Here:*** This is not part of some Scourge plot or Burning Legion scheme. It is just simply an old shipment of infected grain that ended up being stored close to Hearthglen before its fall, and has since been forgotten. Hungry animals found the crates, broke them open and ate from them.
+- ***What Happened:*** This is not part of some Scourge plot or Burning Legion scheme. It is just simply an old shipment of infected grain that ended up being stored close to Hearthglen before its fall, and has since been forgotten. Hungry animals found the crates, broke them open and ate from them.
 
 - **Another Bear:** If the Gamemaster wants the adventure to culminate in a final combat, another infected bear may be inside or near the storehouse. It may be feeding when the player characters arrive or guarding the area simply because it has come to associate the place with food. If combat has already played a sufficient role in the adventure, the storehouse can instead be empty. The discovery itself is the climax.
+
+- **SOUTH:**{color:var(--monsterbrown)} The trail leading back to the old trail (#3).
 
 ## Back to Hearthglen
 
@@ -1295,6 +1290,202 @@ Once the remaining animals have been dealt with and the contaminated storehouse 
 
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
+\page
+
+{{wide
+![the missing patrol](https://i.imgur.com/PO49w24.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+# The Missing Patrol
+{title="Act 1"}
+
+South of Hearthglen, the old roads of Lordaeron pass abandoned farms, ruined cottages, and fields that have not seen a proper harvest since the plague. Scarlet patrols still guard these routes, watching for Scourge movement and keeping the dead away from the roads used by workers, couriers, and supply wagons. When one such patrol fails to return, the player characters are sent to find them.
+
+What begins as a search for overdue comrades leads to an abandoned farmstead, a gathering of ghouls, and a reminder that even experienced soldiers can get overwhelmed.
+
+## The Situation
+
+A five-person Scarlet patrol led by **Sergeant Alexandria Beatrix** left Hearthglen the previous morning to inspect a small watch post and the road beyond it. The patrol was expected back before nightfall, but by dawn, there has still been no sign of them.
+
+The patrol reached the watch post without incident. From there, they spotted fresh ghoul tracks leading east toward an abandoned farmstead. The ghouls appeared to be dragging corpses and carrion away from the road. Beatrix decided to investigate.
+
+The patrol caught the ghouls at the farmstead and attacked. They killed several, but more emerged from the surrounding fields and ruined buildings, forcing the patrol apart. Beatrix was badly wounded in the fighting, her face brutally maimed, but managed to reach the old farmhouse with two of her soldiers. They barricaded themselves inside and have been holding there ever since.
+
+The remaining two soldiers were ordered to retreat and report back to Hearthglen. The ghouls pursued them. One soldier was killed before they reached the road, while the other, **Tomas Rell**, was badly wounded but managed to escape. He eventually collapsed in a ditch beside the road, where he has remained hidden.
+
+The ghouls are using the abandoned farmstead as a feeding and gathering place, dragging bodies there from the surrounding countryside. If left alone, their range will eventually spread toward the roads used by workers and supply wagons.
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
+\page
+
+## The Assignment
+
+**Cavalier Durgen** assigns the player characters to find the missing patrol. He knows Beatrix and her soldiers well enough to be concerned. He gives the player characters the patrol's route and a simple order:
+
+*"Beatrix's patrol knows these roads. They know the signals, and they know when to turn back. If they could have sent word, they would have. Find them."*
+{color:var(--demongreen)}
+
+Durgen can provide the following information:
+
+- The patrol consists of Sergeant Alexandria Beatrix and four other soldiers.
+- Their first stop was a small watch post south of Hearthglen.
+- The patrol should have returned before dark.
+- No alarm signal was seen from the watch post.
+- Beatrix is experienced and not known for taking unnecessary risks.
+
+Durgen does not order the player characters to fight whatever they find. If the situation is beyond them, returning with accurate information is preferable to losing another patrol.
+
+## Locations
+
+### 1. The Watch Post
+
+> A squat stone watchtower stands beside the old road, its upper floor patched with newer timber. Outside the tower is a makeshift camp and the ashes in the fire pit are cold. A Scarlet pennant moves lazily in the wind. The place shows no sign of battle.
+
+- **The Camp:** Bedrolls, a water bucket, and a few mundane supplies remain where the patrol left them. Nothing has been stolen or disturbed.
+- ***The Logbook:*** If the player characters look through the patrol's belongings, they find a simple patrol log that records the patrol's arrival. The final entry reads: *"Fresh tracks east. Several. Investigating."*
+- **The Tracks:** Ghoul tracks cross the road and continue east. The patrol's bootprints follow them. No roll is needed to find the tracks. A successful {{med BUSHCRAFT}} roll shows that several ghouls were moving together and that at least some were dragging heavy objects behind them.
+
+- **NORTH:**{color:var(--monsterbrown)} The road leading back to Hearhtglen.
+- **EAST:**{color:var(--monsterbrown)}  The tracks lead through neglected fields toward the first signs of fighting (#2).
+- **SOUTH:**{color:var(--monsterbrown)} The road continuing towards Andorhal.
+
+{{invisibletable,wide
+
+|  |  |
+|:-|:-|
+| ![the watch post](https://i.imgur.com/BuG9qUd.png) {height:450px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:-1.4cm,margin-bottom:0cm,transform:scaleX(1)} | ![the watch tower](https://i.imgur.com/RR6dESK.png) {height:350px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0.5cm,margin-bottom:0cm,transform:scaleX(1)}
+
+}}
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
+\page
+
+### 2. The Fallen
+
+> The road bends between a collapsed stone wall and a field choked with dead weeds. A Scarlet Crusade soldier lies face-down in the mud ahead. Three ghouls are sprawled nearby, hacked and pierced by weapons. A fourth has crawled several meters before finally becoming still.
+
+- **The Battle:** The dead ghouls make it clear that the soldier did not die cheaply. Blood, churned mud, and scattered footprints show that two Scarlet soldiers were pursued here from the east and forced to turn and fight.
+- **The Fallen Soldier:** The body bears multiple claw and bite wounds. The player characters may recognize him from the mess hall or from guard duty on the walls.
+- **The Pursuit:** Tracks approaching from the east belong to several ghouls and two Scarlet soldiers. The signs suggest that the soldiers were already retreating when the ghouls caught up with them. One of the soldiers fell here, but the scene does not immediately reveal what happened to the other.
+- ***A Separate Trail:*** A successful {{med AWARENESS}} or {{med BUSHCRAFT}} roll reveals a thin blood trail leading south from the road and descending toward a roadside ditch. It belongs to the wounded survivor, Tomas Rell. If the player characters continue east without noticing or following it, they may miss the chance to save him.
+- **The Dead Must Not Rise:** The player characters may choose to bring the body with them, conceal it temporarily, or make preparations to burn it later. Scarlet Crusade practice strongly favors recovering the dead when possible, but preventing a corpse from falling into Scourge hands is more important than ceremony. If the player characters leave the body as is, it is gone when they return.
+- **WEST:**{color:var(--monsterbrown)} The road leads back toward the watch post (#1).
+- **EAST:**{color:var(--monsterbrown)} Following the tracks east leads toward the abandoned farmstead (#4). The distance to the farm is less than an hour on foot.
+- **SOUTH:**{color:var(--monsterbrown)} The blood trail leads to the ditch where the wounded survivor is hiding (#3).
+
+### 3. The Wounded Survivor
+
+> A weak voice comes from below the road. Behind a tangle of thorn and dead grass, a Scarlet soldier lies pressed against the bank, one hand clamped over a blood-soaked bandage.
+
+- **The Injured Soldier:** The soldier is Tomas Rell, badly wounded but conscious. Rell and another soldier were ordered by Beatrix to break away from the farmstead and return to Hearthglen for help. They made it most of the way back to the road before the pursuing ghouls caught up with them. The other soldier was killed in the fighting (see #2), and Rell was badly wounded. He managed to escape into the undergrowth and eventually collapsed in the ditch.
+
+- **What Rell Knows:** The patrol followed the ghouls to an abandoned farm. There were more undead there than expected. After the first attack, the patrol tried to withdraw. Beatrix got badly injured, but managed to reach the farmhouse with two other soldiers and barricade it from the inside. On Beatrix's order, Rell and another soldier retreated to report back and get help, but they got caught and attacked. Rell does not know whether Beatrix and the others are still alive.
+- **The Farmstead:** Rell can give rough directions. It lies less than an hour away on foot.
+- **Rell's Condition:** Rell's wounds are severe but mundane and he cannot travel quickly without help. A successful {{med HEALING}} roll stabilizes him well enough to move with assistance. Without treatment, he should not be marched into another fight.
+- **Saving Rell:** The characters may escort Rell toward Hearthglen, hide him somewhere defensible, leave someone to guard him, or take him with them. Players should keep in mind that taking too long might cost Beatrix and the other two soldiers their life. If the player characters do not discover Rell on their first pass, there is a fifty percent chance that he has passed away if they find him on the way back.
+
+- **NORTH:**{color:var(--monsterbrown)} The trail leads back to the fallen soldier (#2).
+
+{{dragonbox
+### Tomas Rell
+
+Tomas Rell is a young but experienced Scarlet soldier with a badly mauled left leg and several claw wounds across his side. He is embarrassed that he did not make it back to Hearthglen, even though Beatrix explicitly ordered him to try.
+
+Rell knows the missing patrol personally and is more concerned about them than himself. If the player characters rescue Beatrix and the others, Rell will remember it.
+
+If game statistics are required, use the Generic Scarlet Soldier stat block, but Rell begins the scene badly wounded (1 HP remaining) and should probably avoid combat.
+}}
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
+\page
+
+{{wide
+![the fallen](https://i.imgur.com/dnqCUeJ.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+### 4. The Abandoned Farmstead
+
+> The farm emerges from the yellow haze like something half-remembered. A sagging farmhouse stands beside a large barn, both surrounded by broken fences and fields gone wild. An overturned cart lies near the well.
+>
+> Bodies are scattered across the yard. Some are old. Some are not.
+
+- **The Yard:** Several dead ghouls lie where Beatrix's patrol fought them. More move between the barn, ruined sheds, and nearby fields.
+- **The Farmhouse:** The shutters on the ground floor have been blocked from inside. Occasional movement can be seen behind an upper window. Beatrix and two surviving soldiers are barricaded there.
+- **The Bodies:** The ghouls have dragged corpses and carrion into the yard. Some are long dead travelers, animals, or bodies taken from forgotten graves. Others are more recent.
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
+\page
+
+- **The Ghouls:** The undead here are dangerous because of numbers, but they are not organized. A direct assault would be risky, but the ghouls could be lured away or in other ways isolated from eachother. They react to noise and exposed living creatures. They do not fight tactically, but they can quickly overwhelm the characters. The total number of ghouls in the field equals four times the number of player characts, but no group of ghouls is larger than one less than the number of player characters. One of those groups is actively trying to break in through the front door of the farmhouse. Statistics for the ghouls can be found in Appendix B.
+- **Approaches:** The player characters can attack openly, circle through the fields, draw part of the pack away, use the barn or fences as cover, make noise from another direction, or attempt to reach the farmhouse without clearing the entire site.
+- ***Signs of the Survivors:*** {color:red} No roll is needed to notice that the farmhouse has been deliberately barricaded. A successful {{med AWARENESS}} roll may allow the player characters to spot a Scarlet soldier watching from an upper window before the ghouls notice them.
+- **WEST:**{color:var(--monsterbrown)} The road leads back to where the retreating soldiers fell (#2).
+
+### 5. The Farmhouse
+
+> The front door has been reinforced with a table, a cupboard, and part of the staircase railing. Deep claw marks cover the outside. From somewhere upstairs comes the click of a crossbow being drawn.
+>
+> Then a tired voice calls out: *"Scarlet? Give the countersign."*
+
+- **The Soldiers:** **Sergeant Alexandria Beatrix** and two other soldiers are inside. All three are exhausted and injured. Beatrix is missing an eye, one of the soldiers has a broken arm, while the other has a deep wound across the shoulder. They have enough water to survive another day but little chance of escaping while the ghouls remain outside.
+- **The Countersign:** Characters who received their orders from Durgen know the current patrol countersign. If they do not use it, Beatrix remains cautious until convinced they are living Scarlet Crusade soldiers.
+- **Beatrix's Decision:** Beatrix accepts responsibility for following the ghouls beyond the watch post. She does not apologize for investigating the threat, but she recognizes that she underestimated how many undead were in the area. She sees her original decision as reasonable. A pack of ghouls carrying bodies toward a site this close to Hearthglen could not simply be ignored, but admits that she waited too long before sending for help. If the player characters tells her about the fate of her other soldiers, she says a quick prayer and tells them that there will be time for mourning later.
+- **Escape:** If a path has been opened, Beatrix prioritizes getting her wounded soldiers out rather than pursuing fleeing ghouls.
+- **Clearing the Farm:** If the player characters want to eliminate the remaining undead, Beatrix will assist if her soldiers can be protected. She is in no state to fight, but she will not admit that.
+
+{{dragonbox
+### Sergeant Beatrix
+
+Alexandria Beatrix is an experienced Scarlet patrol sergeant, known for her discipline, composure, and practical judgment. She is not theatrical or particularly warm, but her soldiers trust her because she does not ask them to take risks she would not take herself.
+
+By the time the player characters reach the farmhouse, Beatrix has been badly wounded and has lost one eye. Despite the pain and exhaustion, she remains focused on getting her remaining soldiers home alive. She accepts responsibility for leading the patrol to the farmstead, but does not regard the decision itself as reckless: the ghouls represented a real threat, and leaving them uninvestigated would also have carried a cost.
+
+Beatrix is likely to become a recurring figure in Hearthglen if she survives. She remembers competence, especially under pressure, and judges the player characters more by what they do than by what they say.
+
+If game statistics are required, Beatrix's stat block can be found in Appendix A. If she is encountered here, she is severely wounded and in no condition for prolonged combat.
+}}
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
+\page
+
+{{wide
+![the farmstead](https://i.imgur.com/qewFh0F.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+## Back to Hearthglen
+
+The immediate mission ends when the surviving patrol members are safe or dead and the player characters have enough information to report what happened.
+
+If the farmstead remains occupied by ghouls, Scarlet command can send a larger force to clear it later. The player characters are not required to solve a military problem beyond their capacity.
+
+### The Fallen
+
+Scarlet custom strongly favors bringing fallen soldiers home when possible. If this cannot be done safely, burning the bodies is considered an acceptable necessity. Leaving them where the Scourge can recover them is the worst outcome. There should be no punishment for soldiers who make a reasonable decision under dangerous circumstances.
+
+### Durgen's Report
+
+Cavalier Durgen receives the player characters when they return. His first question is simple:
+
+*"How many?"*{color:var(--demongreen)}
+
+{{pageNumber,auto Act I -- The Missing Patrol}}
+\page
+
+He wants to know how many members of Beatrix's patrol survived before he wants to hear how many ghouls were killed. Durgen listens to the full report, including why Beatrix left the watch post and what the player characters found at the farmstead.
+
+If Beatrix survives, Durgen considers her decision to investigate the tracks justified. The patrol found a genuine threat close to Hearthglen and acted on it. He reviews what went wrong, but does not confuse a bad outcome with a bad decision.
+
+If Beatrix dies, Durgen records her actions as part of the patrol report and moves on to the practical matter of replacing the lost soldiers. This is war in the Plaguelands.
+
+### Epilogue
+
+If the player characters rescued any survivors, those soldiers become familiar faces around Hearthglen and may later be encountered in the barracks, chapel, infirmary, or common hall.
+
+Any dead they returned to Hearthglen are buried with the quiet respect given to soldiers lost on patrol. The empty places at the common tables are noticed, but in time they will be filled by new recruits.
+
+Within a few days, patrols resume along the road south. The war goes on.
+
+{{pageNumber,auto Act 1 --- The Missing Patrol}}
 \page
 
 # The Scarlet Crusaders
@@ -1400,23 +1591,50 @@ Bloodshot gets a boon on any roll relying on smell.
 {{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
 \page
 
-* Sergeant Alexandria Beatrix
-![sergeant alexandria beatrix](https://i.imgur.com/6YTCOxS.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-1cm,transform:scaleX(1)}
+![sergeant alexandria beatrix](https://i.imgur.com/6YTCOxS.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-0.4cm,transform:scaleX(1)}
 
-<!--{{dragonbox
-### Sergeant Alexandria Beatrix
+{{dragonbox
+### Sergeant Beatrix
 
-Alexandria Beatrix is an experienced Scarlet patrol sergeant known for discipline, composure, and a sharp sense of responsibility toward the soldiers under her command. She is practical rather than theatrical, expects orders to be followed, and has little patience for unnecessary familiarity. Recruits who become too casual may be reminded with a curt, “That’s Sergeant Beatrix to you.”
+Sergeant Alexandria Beatrix is an experienced Scarlet patrol sergeant known for discipline, composure, and a sharp sense of responsibility toward the soldiers under her command. She is practical rather than theatrical, expects orders to be followed, and has little patience for unnecessary familiarity. Recruits who become too casual may be reminded with a curt, “That’s Sergeant Beatrix to you.”
 
 |                                                              |
 |:-------------------------------------------------------------|
-| **Movement:** 12 &emsp; **Damage Bonus AGL:** +D4            |
-| **HP:** 14 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 14  |
-| **Armor:** Leather (1)  |
-| **Skills:** Awareness: 14, Beast Lore: 16, Bushcraft: 14, Evade: 12, Healing: 8, Hunting & Fishing: 14, Sneaking: 12            |
-| **Abilities:** Aimed Shot, Companion, Hunter's Instincts                               |
-| **Weapons:** Dagger (skill level 12, damage D8), Rifle (skill level 14, damage 2D10, sniper scope), Short Bow (skill level 12, damage D10) |
-}}-->
+| **Movement:** 10 &emsp; **Damage Bonus STR:** +D4            |
+| **HP:** 15 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 12  |
+| **Armor:** Chainmail (4) |
+| **Skills:** Acrobatics 12, Awareness 14, Evade 10, Persuasion 14, Riding 10          |
+| **Abilities:** Hamstring, Veteran, Warrior's Rage
+| **Weapons:** Greatsword (skill level 12, damage 2D10), Heavy Warhammer (skill level 12, damage 2d10), Short Bow (skill level 10, damage d10), Small Shield (skill level 12, damage D8)|
+
+#### One-Eyed:
+Beatrix gets a bane on ranged attacks and on Awareness rolls that rely on sight.
+}}
+
+\column
+
+![scarlet soldier](https://i.imgur.com/CN0KUEm.png) {height:400px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:0cm,margin-bottom:-0.4cm,transform:scaleX(1)}
+
+{{dragonbox
+### Scarlet Soldier
+
+Scarlet soldiers are trained infantrymen who form the backbone of the Crusade's patrols, garrisons, and field forces. They are disciplined, well equipped, and accustomed to fighting in small groups under the harsh conditions of the Plaguelands.
+
+|                                                              |
+|:-------------------------------------------------------------|
+| **Movement:** 10 &emsp; **Damage Bonus STR:** +D4            |
+| **HP:** 12  |
+| **Armor:** Chainmail (4) |
+| **Skills:** Awareness 10          |
+| **Weapons:** Broadsword (skill level 12, damage 2D6), Small Shield (skill level 12, damage D8)|
+}}
+
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+\page
+
+* Generic Scarlet Battlemage
+
+* Generic Scarlet Priest
 
 {{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
 \page
@@ -1473,7 +1691,7 @@ Rolling a dragon when attacking a ghoul immediately severs its head and drops it
 Foulmane is a rare ghoul with Ferocity equals the number of player characters minus one (minimum 2), and HP equals ten times its ferocity
 }}
 
-![ghoul](https://i.imgur.com/3EEQj0P.png) {height:450px,mix-blend-mode:multiply,margin-left:0cm,margin-top:-1.0cm,margin-bottom:-1.5cm}
+![ghoul](https://i.imgur.com/FKGf0JO.png) {height:400px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:-1.5cm,transform:scaleX(1)}
 
 {{pageNumber,auto Appendix B --- The Scourge}}
 \page
