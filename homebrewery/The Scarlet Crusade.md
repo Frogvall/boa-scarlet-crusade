@@ -123,6 +123,16 @@ The Homebrewery
 
 &emsp;[Back to Hearthglen](#p35) {{number 34}}
 
+[**Grain for the Living**](#p37) {{number 36}}
+
+&emsp;[The Situation](#p37) {{number 26}}
+
+&emsp;[The Assignment](#p38) {{number 37}}
+
+&emsp;[Locations](#p38) {{number 37}}
+
+&emsp;[Back to Hearthglen](#pXX+1) {{number XX}}
+
 [**Living Among the Dead**](#p37) {{number 36}}
 
 &emsp;[The Situation](#p37) {{number 36}}
@@ -131,7 +141,11 @@ The Homebrewery
 
 &emsp;[Locations](#p39) {{number 38}}
 
-&emsp;[Back to Hearthglen](#pxx+1) {{number xx}}
+&emsp;[The Survivors](#p41) {{number 40}}
+
+&emsp;[The Investigation](#p45) {{number 44}}
+
+&emsp;[Back to Hearthglen](#p47) {{number 46}}
 
 }}
 
@@ -1484,7 +1498,7 @@ Cavalier Durgen receives the player characters when they return. His first quest
 \page
 
 {{wide
-![soldier's funeral](https://i.imgur.com/R4TqKUF.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+![soldier's funeral](https://i.imgur.com/R4TqKUF.png) {height:400px,mix-blend-mode:multiply,margin-left:0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
 }}
 
 He wants to know how many members of Beatrix's patrol survived before he wants to hear how many ghouls were killed. Durgen listens to the full report, including why Beatrix left the watch post and what the player characters found at the farmstead.
@@ -1502,6 +1516,64 @@ Any dead they returned to Hearthglen are buried with the quiet respect given to 
 Within a few days, patrols resume along the road south. The war goes on.
 
 {{pageNumber,auto Act I -- The Missing Patrol}}
+\page
+
+{{wide
+![grain for the living](https://i.imgur.com/sC6csHB.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+# Grain for the Living
+{title="Act 1"}
+
+{{dropcap R}}oads keep Hearthglen alive as surely as walls and swords do. Food, medicine, lamp oil, tools, ammunition, and replacement equipment must constantly move between the Crusade's settlements, patrol posts, and forward positions across the Western Plaguelands. Most of these journeys are uneventful, but that does not make them unimportant.
+
+In this adventure, the player characters are assigned to escort a small supply convoy from Hearthglen to a fortified waystation along the road toward Andorhal. The mission is straightforward: keep the wagons moving and deliver the supplies to the soldiers who need them.
+
+## The Situation
+
+Quartermaster **Brenna Holt** is preparing two supply wagons for a Scarlet waystation south of Hearthglen.
+
+The waystation supports patrols operating along the road toward Andorhal and provides shelter for couriers, wounded soldiers, and civilians travelling under Scarlet protection. Its stores are running low after a previous delivery was delayed and another convoy was diverted elsewhere.
+
+The wagons carry ordinary but necessary supplies: grain and other preserved food, lamp oil, bandages and simple medicines, arrows and crossbow bolts, spare tools, replacement clothing and blankets, and a small amount of routine military equipment.
+
+The road is normally considered manageable, but recent rain has damaged several sections. One of the convoy's regular guards is also recovering from an injury, leaving the escort short-handed.
+
+The greatest danger is not a planned attack. It is the accumulated risk of moving heavy wagons through damaged country where help may be hours away.
+
+During the journey, the player characters may have to deal with poor road conditions, damaged equipment, delays, signs of nearby Scourge activity, and the possibility of undead being drawn toward the convoy.
+
+The mission succeeds if enough of the supplies reach the waystation for it to continue operating.
+
+The player characters are not expected to preserve every crate at the cost of lives.
+
+{{pageNumber,auto Act I -- Grain for the Living}}
+\page
+
+## The Assignment
+
+Brenna Holt briefs the player characters in the quartermaster's yard while the wagons are being loaded.
+
+*"Two wagons. Food, oil, medicine, bolts, tools. Nothing glorious, but all of it needs to arrive where I sent it."*{color:var(--demongreen)}
+
+She explains that the waystation has missed its last scheduled delivery and is beginning to run short of several basic supplies.
+
+The player characters are to escort the wagons, assist the teamsters if problems arise, and make practical decisions if the road becomes difficult or impassable.
+
+Brenna can provide the following information:
+
+- The journey should take most of a day under normal conditions.
+- The road is regularly patrolled, but there are long stretches without immediate support.
+- Recent rain has left parts of the route in poor condition.
+- The waystation is expecting the convoy before nightfall.
+- Food and medicine are the highest priorities if cargo must be abandoned.
+- The two civilian teamsters know the road and can handle ordinary repairs, but they are not trained fighters.
+
+Brenna is explicit about one point:
+
+*"Do not get yourselves killed protecting lamp oil. If something has to be left behind, leave the right thing behind."*{color:var(--demongreen)}
+
+{{pageNumber,auto Act I -- Grain for the Living}}
 \page
 
 {{wide
@@ -1605,6 +1677,8 @@ If game statistics are required, use the Scarlet Soldier stat block (Appendix A)
 - **The Survivors:** Most of the group want to leave. They have little food left, know that Scourge patrols operate nearby, and do not believe the farmstead can remain safe for much longer. There are eight survivors in total.
 - **Merek Calder:** Merek does nothing to discourage the rescue. He is helpful, cooperative, and among the first to argue that the group should leave while they have the chance.
 
+\column
+
 ### 2. The Road Back
 
 > The road west divides around the remains of an old stone marker. One branch continues straight across open farmland, broad and easy to follow. The other turns south between low hills and disappears behind a line of dead trees.
@@ -1615,11 +1689,21 @@ If game statistics are required, use the Scarlet Soldier stat block (Appendix A)
 - **Merek's Warning:** Merek strongly advises taking the southern road. He claims to have seen signs of Scourge movement along the northern route while travelling through the area and insists that the longer way is safer.
 - **The Other Survivors:** The survivors know that Merek has successfully guided them around undead patrols before. Unless the player characters have already given them reason to distrust him, several support his advice.
 - ***Too Certain:*** {color:red} Merek speaks with more confidence than his explanation seems to justify. A player character who questions him closely may notice that he is unusually certain about where the Scourge will be, rather than merely describing signs he has seen.
-- **Taking the Southern Road:** If the player characters follow Merek's advice, the journey continues without incident. Later, from higher ground, they can see undead moving along the northern road in the distance. Merek's warning was correct.
-- **Taking the Northern Road:** If the player characters ignore Merek's advice, or Merek is not with them, they encounter a Scourge patrol lying in wait farther along the road. The patrol consists of [ENCOUNTER TO BE DETERMINED].
-  {color:red}
-- **Merek's Motive:** Merek genuinely wants the group to avoid the Scourge. Keeping the survivors alive protects his cover, and reaching Hearthglen remains his objective. His warning is not an attempt to lead the player characters into danger.
-- **If Merek is not there:** If Merek is arrested, dead or have fled, he won't be able to give the player characters any advice. At that point, all they know is that they came from the northern road on the way down here and Alda points out that the south road is a lot longer.
+- **Merek's Motive:** Merek genuinely wants the group to avoid the Scourge. Keeping the survivors alive protects his cover, and reaching Hearthglen remains his objective.
+- **If Merek is not there:** If Merek has been arrested, killed, or has fled, he won't be able to give the player characters any advice. At that point, all they know is that they came from the northern road on the way down here and Alda points out that the south road is a lot longer.
+- **Taking the Southern Road:** If the player characters follow the southern road, the journey continues without incident. Later, from higher ground, they can see undead moving along the northern road in the distance. Merek's warning was correct.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+- **Taking the Northern Road:** If the player characters follow the northern road, they encounter a Scourge patrol lying in wait farther along. The patrol consists of one skeletal mage and a number of ghouls equal to the number of player characters minus one (minimum 2). As long as the mage is alive, the ghouls act in unison, keeping themselves between the mage and the player characters while the mage attacks from behind them. If the mage dies, the ghouls lose this coordination and attack the nearest living creatures, whether soldiers or civilians.
+
+The survivors avoid the fighting as much as possible, seeking cover and keeping Brendan away from the undead. They will defend him if a ghoul reaches them, but otherwise leave the fighting to the player characters. If Merek has not yet been exposed, he makes a visible effort to protect the other survivors without taking unnecessary risks. If the player characters already suspect him, he may use the attack as an opportunity to demonstrate his courage and usefulness. If Merek has been exposed and restrained, he instead looks for an opportunity to escape in the confusion.
+
+{{wide
+![the ambush](https://i.imgur.com/YEbRrno.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
 
 {{pageNumber,auto Act 1 --- Living Among the Dead}}
 \page
@@ -1790,7 +1874,7 @@ Several details can raise questions:
 
 - Merek was the last survivor to join the group, and nobody can confirm where he was before that.
 
-{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
 \page
 
 - Hal remembers that Merek appeared unusually well supplied for someone who claimed to have travelled alone for several days.
@@ -1857,7 +1941,7 @@ He prefers flight to violence. Violence draws attention, threatens his cover, an
 
 If escape becomes impossible, he fights only as a last resort.
 
-### No Required Solution
+### Resolution
 
 Merek does not need to be exposed for the adventure to reach a conclusion.
 
@@ -1868,6 +1952,49 @@ If they uncover his deception, he may be arrested, killed, or forced to flee.
 If he realizes that he has been discovered before they can act, he may escape and remain a threat elsewhere.
 
 All three outcomes are valid.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+## Back to Hearthglen
+
+The mission ends when the player characters have brought the survivors back to Hearthglen or otherwise reached a point where they can safely report what happened.
+
+The surviving civilians are taken inside the town and examined for signs of plague, corruption, or other obvious danger before being allowed to remain. Their belongings are searched, their names recorded, and each is questioned about where they have travelled and what they encountered along the way.
+
+Most of this is routine. Refugees have passed through Hearthglen before, and nothing about the group immediately marks them as unusual.
+
+### The Survivors
+
+The seven innocent survivors are treated according to their condition.
+
+Elise's cough receives particular attention, but unless the Gamemaster decides otherwise it proves to be the result of exhaustion, cold, and poor living conditions rather than plague. Brendan remains with her.
+
+Those who are able are eventually given food, a place to sleep, and simple work around Hearthglen while longer-term arrangements are made. Some may later become familiar faces in the town.
+
+If any of the survivors died on the road, their deaths are recorded along with the rest of the mission report.
+
+### Merek Calder
+
+What happens to Merek depends on what the player characters discovered and how they chose to act.
+
+If Merek reaches Hearthglen without being exposed, he is processed alongside the other refugees. Nothing immediately distinguishes him from the rest. He has achieved what he wanted: entry into Scarlet-held territory under a credible identity.
+
+In the days that follow, he begins quietly observing patrol routines, defensive positions, supply movements, and the habits of those stationed in Hearthglen.
+
+If the player characters accuse Merek or bring him back under guard, their officers hear the evidence they have gathered. Suspicion alone may not be enough to establish his guilt, but signs of secret meetings, unexplained knowledge of Scourge movements, contradictions in his story, or testimony from the other survivors may strengthen their case.
+
+If Merek escaped before reaching Hearthglen, his fate remains unknown. The survivors can confirm that he travelled with them and helped keep them alive, but little else about his true identity can be established.
+
+### Epilogue
+
+The survivors brought out of the Plaguelands become part of Hearthglen's growing population of soldiers, refugees, laborers, and displaced families.
+
+For the player characters, the assignment ends as it began: as a rescue mission. Whether they also brought an enemy agent into Hearthglen is another matter.
+
+{{wide
+![homecoming](https://i.imgur.com/zkaPAvP.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:-0.5cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
 
 {{pageNumber,auto Act 1 --- Living Among the Dead}}
 \page
@@ -2080,9 +2207,9 @@ Foulmane is a rare ghoul with Ferocity equals the number of player characters mi
 {{pageNumber,auto Appendix B --- The Scourge}}
 \page
 
-![skeletal mage](https://i.imgur.com/Q7kicWL.png) {height:400px,mix-blend-mode:multiply,margin-left:4cm,margin-top:0cm,margin-bottom:-0.4cm,transform:scaleX(1)}
+![skeletal mage](https://i.imgur.com/Q7kicWL.png) {height:400px,mix-blend-mode:multiply,margin-left:4cm,margin-top:2cm,margin-bottom:1cm,transform:scaleX(1)}
 
-{{dragonbox,wide
+{{dragonbox,wide,column-count:2
 ### Skeletal Mage
 
 Skeletal mages are undead spellcasters raised by the Scourge to wield the magic they practiced in life. Unlike common skeletons, they retain enough intellect to understand complex orders, choose their targets, and use their spells with deliberate purpose. Cold blue light burns within their empty sockets as frost gathers around their hands and weapons.
@@ -2094,7 +2221,7 @@ In battle, skeletal mages prefer to remain behind other undead, using frost magi
 | **Movement:** 8        |
 | **HP:** 12 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 18  |
 | **Armor:** Leather (1) |
-| **Skills:** Awareness 8, Elementalism 12, Evade 8, Staves 8          |
+| **Skills:** Awareness 8, Elementalism 12, Evade 8          |
 | **Magic Tricks:** Flick, Head/Chill, Open/Close |
 | **Spells:** Frost, Frost Bolt, Dispel, Magic Shield |
 | **Abilities:** Focused (2)
