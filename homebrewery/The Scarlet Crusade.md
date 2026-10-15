@@ -113,6 +113,26 @@ The Homebrewery
 
 &emsp;[Back to Hearthglen](#p29) {{number 28}}
 
+[**The Missing Patrol**](#p30) {{number 29}}
+
+&emsp;[The Situation](#p30) {{number 29}}
+
+&emsp;[The Assignment](#p31) {{number 30}}
+
+&emsp;[Locations](#p31) {{number 30}}
+
+&emsp;[Back to Hearthglen](#p35) {{number 34}}
+
+[**Living Among the Dead**](#p37) {{number 36}}
+
+&emsp;[The Situation](#p37) {{number 36}}
+
+&emsp;[The Assignment](#p38) {{number 37}}
+
+&emsp;[Locations](#p39) {{number 38}}
+
+&emsp;[Back to Hearthglen](#pxx+1) {{number xx}}
+
 }}
 
 {{pageNumber,auto Contents}}
@@ -446,7 +466,7 @@ Act I is intended to unfold over several weeks. The intervals below provide a su
 | 5–6  | Routine service and downtime                  |
 | 7    | *Grain for the Living*                        |
 | 8–10 | Routine service and downtime                  |
-| 11   | *The Living Among the Dead*                   |
+| 11   | *Living Among the Dead*                   |
 | 12   | Aftermath and the end of Act I                |
 }}
 
@@ -535,15 +555,11 @@ The characters help ordinary people and deal with a genuine local danger.
 
 The Crusade responds correctly. The source of contamination is isolated and destroyed, the mill can reopen, and people are safer because the characters acted. There is no conspiracy behind the danger. The Third War has simply left wounds that have not healed.
 
-The intended feeling is: ***We help people.***
-
 ### The Missing Patrol
 
 The characters encounter the ordinary cost of the war against the Scourge.
 
 The missing soldiers were not fools, and Sergeant Beatrix did not recklessly throw their lives away. They encountered a threat, made a reasonable decision, and paid for it. The characters' task is not to uncover a secret. It is to find their comrades and bring back as many as they can.
-
-The intended feeling is: ***We can fight this war.***
 
 ### Grain for the Living
 
@@ -551,19 +567,15 @@ The characters see how much of the war is sustained by ordinary work.
 
 Food, medicine, lamp oil, tools, horses, wagons, and people willing to move them through dangerous country keep isolated positions alive. Nothing about the shipment is sinister. It matters because people need it.
 
-The intended feeling is: ***This war is bigger than Hearthglen.***
+### Living Among the Dead
 
-### The Living Among the Dead
+The characters are sent to rescue civilians stranded close to Scourge-held territory. Most are exactly what they appear to be: frightened people trying to survive. One of them is not.
 
-The characters face the first situation in which vigilance and judgment are difficult to separate.
-
-The survivors have good reason to fear the Crusade's suspicion. The Crusade has good reason to be suspicious. One of the survivors really is an enemy, while the others are innocent. Suspicion can keep people alive. Knowing when suspicion is wrong can do the same.
-
-The intended feeling is: ***We are harsh because we have to be harsh.***
+The characters must decide how closely to question the survivors, which inconsistencies matter, and how much trust to place in people they have only just met. If Merek Calder escapes suspicion, the characters may unknowingly escort a Cult of the Damned agent directly into Hearthglen.
 
 ### The End of the Act
 
-*The Living Among the Dead* is the final major adventure of New Blood, but the act does not need to end the moment the characters return through Hearthglen's gates.
+*Living Among the Dead* is the final major adventure of New Blood, but the act does not need to end the moment the characters return through Hearthglen's gates.
 
 Allow the consequences to settle. A few days or weeks may pass. The rescued survivors find somewhere to sleep and begin deciding what remains of their lives. Reports are written. Equipment is cleaned. Patrols leave and return. Wagons arrive late. Someone complains about the weather. Hearthglen continues.
 
@@ -575,7 +587,7 @@ At the end of the act, **the player characters earn another heroic ability each*
 
 New duties will come soon enough, but for now, Hearthglen is home.
 
-{{dragonbox,margin-top:1cm
+{{dragonbox,margin-top:2.0cm
 ### Keeping Track of the Act
 
 There is no need for a formal reputation system, but the Gamemaster should make brief notes about relationships and important outcomes.
@@ -589,7 +601,7 @@ In particular, note:
 * how the characters deal with the dead during *The Missing Patrol*.
 * how much of the convoy reaches its destination in *Grain for the Living*.
 * what happens to Merek Calder.
-* how the characters treat the innocent survivors in *The Living Among the Dead*.
+* how the characters treat the innocent survivors in *Living Among the Dead*.
 * any other NPC the players unexpectedly become attached to.
 
 These notes are more useful than a single score. They tell the Gamemaster who the characters care about.
@@ -1110,7 +1122,7 @@ Do not rush these quieter periods simply because nothing dramatic is happening. 
 # Trouble at the Mill
 {title="Act 1"}
 
-The lumber mills outside Hearthglen supply the Scarlet Crusade with timber for palisades, repairs, carts, fuel, and new construction. When workers at one of the mills are attacked by unusually aggressive wildlife, work comes to a halt. The player characters, newly recruited
+{{dropcap O}}he lumber mills outside Hearthglen supply the Scarlet Crusade with timber for palisades, repairs, carts, fuel, and new construction. When workers at one of the mills are attacked by unusually aggressive wildlife, work comes to a halt. The player characters, newly recruited
 
 \column
 
@@ -1299,7 +1311,7 @@ Once the remaining animals have been dealt with and the contaminated storehouse 
 # The Missing Patrol
 {title="Act 1"}
 
-South of Hearthglen, the old roads of Lordaeron pass abandoned farms, ruined cottages, and fields that have not seen a proper harvest since the plague. Scarlet patrols still guard these routes, watching for Scourge movement and keeping the dead away from the roads used by workers, couriers, and supply wagons. When one such patrol fails to return, the player characters are sent to find them.
+{{dropcap S}}outh of Hearthglen, the old roads of Lordaeron pass abandoned farms, ruined cottages, and fields that have not seen a proper harvest since the plague. Scarlet patrols still guard these routes, watching for Scourge movement and keeping the dead away from the roads used by workers, couriers, and supply wagons. When one such patrol fails to return, the player characters are sent to find them.
 
 What begins as a search for overdue comrades leads to an abandoned farmstead, a gathering of ghouls, and a reminder that even experienced soldiers can get overwhelmed.
 
@@ -1345,7 +1357,7 @@ Durgen does not order the player characters to fight whatever they find. If the 
 - ***The Logbook:*** If the player characters look through the patrol's belongings, they find a simple patrol log that records the patrol's arrival. The final entry reads: *"Fresh tracks east. Several. Investigating."*
 - **The Tracks:** Ghoul tracks cross the road and continue east. The patrol's bootprints follow them. No roll is needed to find the tracks. A successful {{med BUSHCRAFT}} roll shows that several ghouls were moving together and that at least some were dragging heavy objects behind them.
 
-- **NORTH:**{color:var(--monsterbrown)} The road leading back to Hearhtglen.
+- **NORTH:**{color:var(--monsterbrown)} The road leading back to Hearthglen.
 - **EAST:**{color:var(--monsterbrown)}  The tracks lead through neglected fields toward the first signs of fighting (#2).
 - **SOUTH:**{color:var(--monsterbrown)} The road continuing towards Andorhal.
 
@@ -1389,11 +1401,11 @@ Durgen does not order the player characters to fight whatever they find. If the 
 {{dragonbox
 ### Tomas Rell
 
-Tomas Rell is a young but experienced Scarlet soldier with a badly mauled left leg and several claw wounds across his side. He is embarrassed that he did not make it back to Hearthglen, even though Beatrix explicitly ordered him to try.
+Tomas Rell is a young but experienced Scarlet soldier with a badly mauled left leg and several claw wounds across his side. He is ashamed that he did not make it back to Hearthglen, even though Beatrix explicitly ordered him to try.
 
 Rell knows the missing patrol personally and is more concerned about them than himself. If the player characters rescue Beatrix and the others, Rell will remember it.
 
-If game statistics are required, use the Generic Scarlet Soldier stat block, but Rell begins the scene badly wounded (1 HP remaining) and should probably avoid combat.
+If game statistics are required, use the Scarlet Soldier stat block (Appendix A), but Rell begins the scene badly wounded (1 HP remaining) and should probably avoid combat.
 }}
 
 {{pageNumber,auto Act 1 --- The Missing Patrol}}
@@ -1416,7 +1428,7 @@ If game statistics are required, use the Generic Scarlet Soldier stat block, but
 {{pageNumber,auto Act 1 --- The Missing Patrol}}
 \page
 
-- **The Ghouls:** The undead here are dangerous because of numbers, but they are not organized. A direct assault would be risky, but the ghouls could be lured away or in other ways isolated from eachother. They react to noise and exposed living creatures. They do not fight tactically, but they can quickly overwhelm the characters. The total number of ghouls in the field equals four times the number of player characts, but no group of ghouls is larger than one less than the number of player characters. One of those groups is actively trying to break in through the front door of the farmhouse. Statistics for the ghouls can be found in Appendix B.
+- **The Ghouls:** The undead here are dangerous because of numbers, but they are not organized. A direct assault would be risky, but the ghouls could be lured away or in other ways isolated from each other. They react to noise and exposed living creatures. They do not fight tactically, but they can quickly overwhelm the characters. The total number of ghouls in the field equals four times the number of player characts, but no group of ghouls is larger than one less than the number of player characters. One of those groups is actively trying to break in through the front door of the farmhouse. Statistics for the ghouls can be found in Appendix B.
 - **Approaches:** The player characters can attack openly, circle through the fields, draw part of the pack away, use the barn or fences as cover, make noise from another direction, or attempt to reach the farmhouse without clearing the entire site.
 - ***Signs of the Survivors:*** {color:red} No roll is needed to notice that the farmhouse has been deliberately barricaded. A successful {{med AWARENESS}} roll may allow the player characters to spot a Scarlet soldier watching from an upper window before the ghouls notice them.
 - **WEST:**{color:var(--monsterbrown)} The road leads back to where the retreating soldiers fell (#2).
@@ -1471,6 +1483,10 @@ Cavalier Durgen receives the player characters when they return. His first quest
 {{pageNumber,auto Act I -- The Missing Patrol}}
 \page
 
+{{wide
+![soldier's funeral](https://i.imgur.com/R4TqKUF.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
 He wants to know how many members of Beatrix's patrol survived before he wants to hear how many ghouls were killed. Durgen listens to the full report, including why Beatrix left the watch post and what the player characters found at the farmstead.
 
 If Beatrix survives, Durgen considers her decision to investigate the tracks justified. The patrol found a genuine threat close to Hearthglen and acted on it. He reviews what went wrong, but does not confuse a bad outcome with a bad decision.
@@ -1485,7 +1501,375 @@ Any dead they returned to Hearthglen are buried with the quiet respect given to 
 
 Within a few days, patrols resume along the road south. The war goes on.
 
-{{pageNumber,auto Act 1 --- The Missing Patrol}}
+{{pageNumber,auto Act I -- The Missing Patrol}}
+\page
+
+{{wide
+![living among the dead](https://i.imgur.com/hZwoAcM.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+# Living Among the Dead
+{title="Act 1"}
+
+{{dropcap T}}he closer one travels toward Andorhal, the fewer signs of ordinary life remain. Abandoned farms line the old roads, fields have gone untended for years, and Scourge patrols move through places that once connected one village to the next.
+
+When a Scarlet reconnaissance patrol spots smoke rising from an isolated farmstead, they discover something increasingly rare in the Plaguelands: living civilians.
+
+One soldier is sent back to Hearthglen on horseback with the report. The player characters are assigned to return with him, find the survivors, and bring them to safety if they can.
+
+However, not everyone waiting at the farmstead is what they claim to be.
+
+## The Situation
+
+A Scarlet reconnaissance patrol has been observing Scourge movement along the western approaches to Andorhal. Their orders are to remain concealed, record enemy activity, and avoid engagements that might reveal their position.
+
+During the patrol, they spotted smoke rising from an abandoned cluster of farm buildings some distance from the road. Later, they saw several living people moving between the buildings.
+
+The patrol could not abandon its assignment to investigate. Instead, its commander detached one mounted soldier to carry the report back to Hearthglen. The rest remain in the field.
+
+The survivors number eight people. Most are ordinary refugees who have been hiding in the ruins for several weeks after their previous shelter was overrun. They have little food left and know that remaining this close to Andorhal is becoming increasingly dangerous.
+
+One of them, **Merek Calder**, is secretly a member of the Cult of the Damned.
+
+Merek joined the group shortly before they reached the farmstead, claiming to be a lone traveler fleeing the Scourge. He quickly made himself useful. He knows which roads to avoid, where undead patrols are likely to pass, and where usable food can still be found.
+
+The survivors believe this knowledge has helped keep them alive.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+In truth, Merek has been receiving information from another cult contact and has deliberately guided the group through areas where the Scourge are unlikely to interfere with them. Keeping the survivors alive serves his purpose: travelling among genuine refugees gives him a convincing identity and makes him far less suspicious than a lone stranger emerging from Scourge-held territory.
+
+Merek hopes eventually to reach Scarlet-controlled territory with the group. If he can enter Hearthglen as one of several rescued civilians, he will be in a position to observe patrol routines, defenses, supply movements, and other information of value to the Cult while waiting for further instructions.
+
+For that reason, Merek has no reason to resist rescue. He cooperates with the player characters, encourages the other survivors to do the same, and may appear to be one of the most helpful people in the group. If his cover holds, being escorted to Hearthglen is exactly what he wants.
+
+The player characters may discover Merek through inconsistencies in his story, physical evidence, or signs that his knowledge of Scourge movements is too precise to be explained by ordinary experience.
+
+The other seven survivors have committed no crime. Scarlet procedure is to check them for signs of plague or corruption, question them about where they have been, and escort them to Hearthglen if they can be safely moved. Anyone presenting a genuine threat is to be detained separately.
+
+## The Assignment
+
+The player characters receive the assignment from **High Protector Lorik** or an officer acting on his orders. The Scarlet soldier who carried the original report, **Corin Hale** is present and will accompany them back to the area.
+
+The briefing is straightforward.
+
+> *"A reconnaissance patrol found civilians west of Andorhal. They could not leave their position to investigate, so they sent word instead. Go with their rider, find these people, and bring them back if it is safe to do so. If the situation is worse than it appears, come back and tell us."*{color:var(--demongreen)}
+
+Lorik can provide the following information:
+
+- A group of civilians was seen sheltering in abandoned farm buildings.
+- The patrol saw perhaps ten people moving around the farmstead.
+- The reconnaissance patrol did not approach closely enough to speak with the group.
+- The farmstead lies some distance from Andorhal itself, but Scourge patrols operate in the surrounding area.
+- Corin Hale knows the route and can guide the player characters to the site.
+- The player characters are not expected to engage a significant Scourge force. This is an extraction mission.
+- Anyone showing signs of plague or Scourge corruption should be isolated and brought back for examination if possible.
+
+Lorik gives no indication that he expects the survivors to be anything but living civilians in dangerous territory. The immediate concern is getting them out before the Scourge finds them.
+
+{{dragonbox
+### Corin Hale
+
+Corin Hale is a young Scarlet soldier with an easy manner, a quick smile, and a noticeable stammer that becomes stronger when he is nervous or trying to speak too quickly. He has learned not to let it stop him from speaking his mind, though he occasionally pauses, starts a sentence again, or replaces a troublesome word altogether.
+
+Hale is curious about people and prone to filling long stretches of road with conversation. He asks questions easily, laughs at his own mistakes, and generally assumes the best of those he meets until given a reason not to.
+
+As the group approaches Andorhal, his manner changes. The jokes become less frequent, the questions stop, and he pays close attention to the road and surrounding fields. He has seen enough of the western approaches to know how quickly an ordinary journey can turn dangerous.
+
+He carried the reconnaissance patrol's report back to Hearthglen and now guides the player characters along the same route. He knows what the patrol observed and where the farmstead lies, but nothing more about the survivors them-selves.
+
+If game statistics are required, use the Scarlet Soldier stat block (Appendix A).
+}}
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+## Locations
+
+### 1. The Farmstead
+
+> Corin Hale leads you along the old road until the fields begin to open up ahead. At a low rise, he reins in and points toward a cluster of buildings in the distance.
+>
+> *"That's the place. We watched it from here. Good luck."*{color:var(--demongreen)}
+>
+> With that, he turns his horse back toward the reconnaissance position. From here, you continue alone.
+>
+> The farmstead lies beyond the rise, surrounded by fields that have long since gone wild. Smoke rises from the farmhouse chimney, thin but steady. A barn leans slightly to one side, its doors reinforced with scavenged timber, while an old well stands in the yard beside the remains of a wagon.
+>
+> Four people are outside when you approach. Others appear in the windows.
+
+- **The Farmstead:** The farmstead has been abandoned for years, but the survivors have made it temporarily habitable. Broken shutters have been repaired, gaps in the walls have been covered with boards and cloth, and a small cooking fire burns inside the farmhouse.
+- **The Approach:** The survivors notice the player characters before they reach the yard. Their first reaction is caution, followed quickly by relief when they recognize Scarlet uniforms.
+- **The Buildings:** The farmhouse is used for sleeping and cooking. The barn holds salvaged supplies, tools, and anything the group has been able to carry with them.
+- **The Survivors:** Most of the group want to leave. They have little food left, know that Scourge patrols operate nearby, and do not believe the farmstead can remain safe for much longer. There are eight survivors in total.
+- **Merek Calder:** Merek does nothing to discourage the rescue. He is helpful, cooperative, and among the first to argue that the group should leave while they have the chance.
+
+### 2. The Road Back
+
+> The road west divides around the remains of an old stone marker. One branch continues straight across open farmland, broad and easy to follow. The other turns south between low hills and disappears behind a line of dead trees.
+>
+> Both roads lead toward Hearthglen.
+
+- **The Fork:** The northern road is shorter and easier to travel, while the southern route adds several hours to the journey. Nothing immediately visible suggests that either road is more dangerous than the other. The player characters used the northern road on their way to the farmstead.
+- **Merek's Warning:** Merek strongly advises taking the southern road. He claims to have seen signs of Scourge movement along the northern route while travelling through the area and insists that the longer way is safer.
+- **The Other Survivors:** The survivors know that Merek has successfully guided them around undead patrols before. Unless the player characters have already given them reason to distrust him, several support his advice.
+- ***Too Certain:*** {color:red} Merek speaks with more confidence than his explanation seems to justify. A player character who questions him closely may notice that he is unusually certain about where the Scourge will be, rather than merely describing signs he has seen.
+- **Taking the Southern Road:** If the player characters follow Merek's advice, the journey continues without incident. Later, from higher ground, they can see undead moving along the northern road in the distance. Merek's warning was correct.
+- **Taking the Northern Road:** If the player characters ignore Merek's advice, or Merek is not with them, they encounter a Scourge patrol lying in wait farther along the road. The patrol consists of [ENCOUNTER TO BE DETERMINED].
+  {color:red}
+- **Merek's Motive:** Merek genuinely wants the group to avoid the Scourge. Keeping the survivors alive protects his cover, and reaching Hearthglen remains his objective. His warning is not an attempt to lead the player characters into danger.
+- **If Merek is not there:** If Merek is arrested, dead or have fled, he won't be able to give the player characters any advice. At that point, all they know is that they came from the northern road on the way down here and Alda points out that the south road is a lot longer.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+## The Survivors
+
+The eight people sheltering at the farmstead are a loose group of refugees who have gathered gradually while moving west through the Plaguelands. Some knew each other before, while others joined along the way, but shared danger and necessity have kept them together. **Merek Calder** was the last to join the group, but has quickly made himself useful through his knowledge of the surrounding countryside and the movements of the Scourge.
+
+The survivors are tired, hungry, and wary, but they are not hostile. Most are relieved when the player characters offer them a way out. They do not all agree on what should be done, however, and several have things they would rather not discuss with armed strangers.
+
+Only Merek Calder is working with the Cult of the Damned. The others may lie, evade questions, or behave suspiciously for reasons of their own.
+
+![alda fenner](https://i.imgur.com/JMgsUSq.png) {height:300px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:2.2cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Alda Fenner
+
+Alda is a lean woman in her twenties who once worked with horses and carts on the roads around Andorhal. She dislikes being confined indoors and has volunteered for more watches than anyone else in the group.
+
+She prefers practical problems with practical answers and becomes visibly impatient when people argue without deciding anything.
+
+- **What Alda Knows:** Alda knows the local roads better than most of the survivors. She knows that Garrick took grain from an abandoned cottage, has noticed that Oren's collection of small valuables keeps growing, and suspects that Hal has military experience despite his reluctance to discuss his past. She has also noticed that Merek sometimes knows about changes in Scourge movement before there are obvious signs of them.
+- **What She Thinks of the Others:** Alda respects Garrick's work ethic and Edda's ability to make decisions. She finds Oren exhausting, thinks Elise worries too much, and has little patience for Hal's nervousness. She respects Merek's results but dislikes how rarely he can explain where his information comes from.
+- **What She Hides:** Before joining the group, Alda abandoned two badly wounded travelling companions during a Scourge attack. She believes they would all have died if she had stayed, but still carries considerable guilt over the decision.
+- **Personality:** Practical, blunt, observant, and restless. Sympathy makes her uncomfortable, especially when directed at her.
+
+![brendan ellison](https://i.imgur.com/NTJRE71.png) {height:300px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Brendan Ellison
+
+Brendan is a boy of about nine or ten who stays close to his aunt around strangers. His mother was killed when the group's previous shelter was overrun, and the loss is still recent enough that he sometimes wakes at night calling for her.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+Since then, Brendan has become quieter and more watchful. He rarely strays far from Elise and becomes visibly anxious when she leaves his sight. Around people he trusts, however, some of his old curiosity returns.
+
+- **What Brendan Knows:** Brendan notices things the adults assume he ignores. He has seen Oren hiding small valuables among his belongings, knows that Hal sometimes cries when he thinks no one is watching, and has noticed that Merek occasionally leaves the farmstead alone.
+- **What He Thinks of the Others:** Brendan likes Merek because he tells stories and saves small treats for him. He is slightly afraid of Garrick, though Garrick has never been unkind to him. He trusts Edda because his aunt does.
+- **What He Hides:** Nothing deliberately. Brendan simply does not always understand which details matter.
+- **Personality:** Quiet, grieving, observant, and strongly attached to Elise. When he feels safe, he becomes inquisitive and surprisingly talkative.
+
+![edda marr](https://i.imgur.com/YWgXnVA.png) {height:300px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:2cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Edda Marr
+
+Edda Marr is the oldest member of the group and has gradually become its informal leader. She speaks plainly, dislikes wasted words, and has a habit of listening to everyone before making up her mind.
+
+Edda does not command the others, but they tend to look toward her when something must be decided. She has kept the group together through hunger, arguments, and several hurried relocations.
+
+- **What Edda Knows:** Edda has the clearest overall picture of the group's history. She knows when each survivor joined them, remembers that Hal arrived alone and badly shaken, and has noticed that Elise's cough has been getting worse. She also knows that Oren and Garrick have argued more than once over supplies and that Merek has repeatedly helped the group avoid dangerous roads.
+- **What She Thinks of the Others:** Edda trusts Garrick completely, worries that Elise is wearing herself down caring for Brendan, and thinks Hal is a better man than he believes himself to be. She finds Oren irritating but useful. Merek has earned her respect, though not unquestioning trust.
+- **What She Hides:** Edda has concealed how little food remains. She has been quietly reducing her own portions to make the supplies last longer and does not want the others to know.
+- **Personality:** Calm, dry, stubborn, and difficult to intimidate. She does not mistake rank for wisdom and rarely raises her voice.
+
+![elise ellison](https://i.imgur.com/uRIpZyD.png) {height:300px,mix-blend-mode:multiply,margin-left:0cm,margin-top:2.6cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Elise Ellison
+
+Elise is a woman in her thirties travelling with her young nephew Brendan. Her younger sister, Brendan's mother, was killed when the group's previous shelter was overrun, and Elise has cared for the boy since.
+
+She is exhausted and constantly alert to anything that might threaten him. Around Brendan she tries to appear calmer than she feels.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+- **What Elise Knows:** Elise knows that Brendan sometimes wakes calling for his mother and that he has become frightened of being left alone. She has noticed Edda skipping meals, has seen Hal go out of his way to distract Brendan when the boy becomes upset, and knows that Oren keeps small objects hidden in his pack. She has also noticed that Merek occasionally scouts ahead alone.
+- **What She Thinks of the Others:** Elise trusts Edda's judgment and is grateful to Hal for being kind to Brendan. Garrick makes her feel safer even though Brendan finds him intimidating. She dislikes Oren's habit of asking intrusive questions. She is grateful to Merek because his advice has repeatedly kept the group away from danger.
+- **What She Hides:** Elise has developed a persistent cough. She believes it is caused by cold nights and exhaustion, but fears that Scarlet soldiers may mistake it for plague and separate her from Brendan.
+- **Personality:** Protective, tired, cautious, and initially suspicious of strangers. Once convinced that someone genuinely means Brendan no harm, she becomes considerably warmer.
+
+![garrik marr](https://i.imgur.com/iOUdUyc.png) {height:300px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:1cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Garrick Marr
+
+Garrick is a broad, heavily built man in late middle age and Edda's younger brother. Before the plague, he spent most of his life working farms and hauling goods between nearby settlements.
+
+He speaks little unless directly addressed and tends to express concern through practical work rather than reassurance. If something needs carrying, repairing, or reinforcing, Garrick usually does it without being asked.
+
+- **What Garrick Knows:** Garrick knows that Edda has been eating less than everyone else, although she thinks she has hidden it. He has seen Hal wake from nightmares, knows that Alda regularly volunteers for the least desirable watches, and has caught Oren examining valuables he clearly did not own before the group formed. He has also personally seen Merek steer the group away from routes where undead appeared soon afterward.
+- **What He Thinks of the Others:** Garrick is protective of Edda but rarely says so. He respects Alda's willingness to work, feels sorry for Hal, and tolerates Oren mostly because Edda does. He trusts Merek more readily than Edda does because Merek's advice has repeatedly kept people alive.
+- **What He Hides:** Garrick took a small sack of grain from an abandoned cottage several days ago. He believes it may have belonged to other survivors and is ashamed that hunger made the decision easy.
+- **Personality:** Patient, dependable, and slow to anger. Once angry, he becomes extremely direct and has little patience for argument.
+
+![hal brenner](https://i.imgur.com/7DSXtZk.png) {height:300px,mix-blend-mode:multiply,margin-left:0cm,margin-top:1cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Hal Brenner
+
+Hal Brenner is a young man who looks several years younger than he actually is. His slight build and boyish features make him easy to mistake for someone barely out of adolescence. He tries hard to make himself useful. He fetches water, repairs shutters, carries supplies, and regularly volunteers for work others are too tired to do.
+
+He becomes visibly nervous around armed soldiers and tends to answer questions too quickly, often adding details nobody asked for.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+- **What Hal Knows:** Hal knows that Edda has been rationing food more tightly than she admits and that Garrick has been helping her hide it from the others. He has seen Alda wake from nightmares after taking watch, knows that Brendan sometimes seeks him out when Elise is asleep, and has noticed Oren searching through abandoned buildings whenever the group stops. Hal was already travelling with the survivors when Merek joined them and remembers that Merek's clothes and supplies seemed unusually well kept for someone who claimed to have been alone for several days.
+- **What He Thinks of the Others:** Hal admires Edda and is slightly intimidated by Garrick. He likes Brendan and feels protective of him. Alda makes him nervous because she asks direct questions. He does not trust Oren around unattended belongings. He is uncertain about Merek, but knows the group would likely have lost people without his guidance.
+- **What He Hides:** Hal served in a local militia that collapsed during a Scourge attack. He fled when the line broke and has convinced himself that this makes him a deserter. He fears Scarlet soldiers will see it the same way.
+- **Personality:** Helpful, anxious, conscientious, and eager to please. The harder someone questions him, the guiltier he tends to look.
+
+![merek calder](https://i.imgur.com/29WGQFe.png) {height:300px,mix-blend-mode:multiply,margin-left:-0.5cm,margin-top:1cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Merek Calder
+
+Merek Calder presents himself as a capable traveller who survived alone before joining the group. He is calm, helpful, and rarely the first person to speak, but readily offers practical advice once others have begun discussing a problem.
+
+He has deliberately made himself valuable. He scouts, finds food, identifies safer routes, helps with work around the farmstead, and treats the other survivors with enough genuine consideration that several of them have come to trust him.
+
+- **What Merek Knows:** Merek has paid close attention to everyone in the group. He knows about Elise's cough, suspects Hal has some kind of military past, has seen Oren's collection of valuables, and knows that Garrick took the grain. He is aware that Alda distrusts the precision of his knowledge and that Brendan has seen him leave the farmstead alone.
+- **What He Thinks of the Others:** Merek considers Edda the person most likely to notice if something does not add up and therefore treats her opinions with respect. He knows Garrick values results, Elise responds strongly to anyone helping Brendan, and Hal can easily be frightened into saying too much. He views Oren and Alda as the greatest risks to his cover.
+- **What He Claims:** Merek says he survived by travelling carefully, observing Scourge patrols from a distance, and learning which roads and settlements were safest.
+- **What He Hides:** Merek is an agent of the Cult of the Damned. A cult contact has been providing him with information about Scourge movements, allowing him to guide the survivors through areas where they are unlikely to be attacked.
+- **What He Wants:** Merek wants to reach Hearthglen with the survivors. Entering Scarlet-held territory as one of several rescued civilians gives him a credible identity and an opportunity to gather information about patrols, defenses, and supply movements.
+- **If Suspected:** Merek does not panic simply because someone questions him. He knows that almost everyone in the group has something they would rather keep hidden and can truthfully point toward several suspicious details that have nothing to do with the Cult.
+- **If Exposed:** If arrest becomes inevitable, Merek first tries to talk his way out of the situation. He resorts to flight or violence only when he believes his cover cannot be preserved.
+- **Personality:** Patient, attentive, understated, and skilled at making himself useful without appearing eager for influence.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+![oren pike](https://i.imgur.com/jskxAVP.png) {height:300px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+
+### Oren Pike
+
+Oren is a thin older man who walks with a stick after an injury that predates the plague. Before Lordaeron fell, he travelled between villages repairing household tools, locks, and simple mechanisms.
+
+He has an excellent memory and an unfortunate habit of correcting other people's details, even when the correction does not matter.
+
+- **What Oren Knows:** Oren remembers where and roughly when each member joined the group. He knows that Hal has changed parts of his story more than once, has noticed Elise hiding her cough, and knows that Garrick did not find the grain where he claims. He has also caught Brendan near his belongings and suspects the boy has seen his hidden valuables. Some of Merek's descriptions of earlier journeys do not quite match Oren's memory of the roads and settlements involved.
+- **What He Thinks of the Others:** Oren respects Edda but enjoys arguing with her. He thinks Garrick is honest except when ashamed, considers Alda too quick to act, and finds Hal suspicious largely because Hal is so obviously frightened of questioning. He regards Merek as useful but too polished for someone who claims to have survived alone for long.
+- **What He Hides:** Oren carries rings, lockets, coins, and other small valuables taken from abandoned homes and from bodies encountered during the journey. He insists the owners were already dead and sees little sense in leaving useful things behind, but knows how it will look if the items are discovered.
+- **Personality:** Pedantic, skeptical, irritable, and sharp-minded. He can be unexpectedly funny, usually when he is not trying to be.
+
+## The Investigation
+
+There is no single clue that proves Merek Calder is a member of the Cult of the Damned.
+
+Most of the survivors have something they would rather not discuss, and several of them can appear suspicious under questioning. The player characters are therefore more likely to uncover the truth by comparing stories, noticing patterns, and deciding which inconsistencies actually matter.
+
+Merek's greatest protection is that he has genuinely helped the group survive.
+
+### Talking to the Survivors
+
+The survivors do not need to be formally interrogated for useful information to emerge. Ordinary conversation about where they came from, when they joined the group, and how they survived can reveal contradictions, private grievances, and observations about one another.
+
+The Gamemaster should use the information in each survivor's profile freely. A character may volunteer something, mention it accidentally, reveal it when pressed, or point toward another survivor when attention becomes uncomfortable.
+
+Not every secret is relevant to Merek.
+
+- **Edda** has been hiding how little food remains.
+- **Garrick** took grain that may have belonged to other survivors.
+- **Elise** is concealing a persistent cough.
+- **Alda** abandoned wounded companions during an earlier Scourge attack.
+- **Oren** has taken valuables from abandoned homes and bodies.
+- **Hal** fears being treated as a deserter.
+- **Brendan** has noticed things the adults do not realize he has seen.
+
+These secrets may create suspicion, but none of them connects the survivor to the Cult of the Damned.
+
+### Merek's Story
+
+Merek claims that he survived alone before joining the group by travelling carefully, watching the roads, and learning where the undead tend to move.
+
+Much of what he says is plausible.
+
+The problem is not that any one part of his story is impossible, but that his knowledge is consistently more accurate than it should be.
+
+Several details can raise questions:
+
+- Merek was the last survivor to join the group, and nobody can confirm where he was before that.
+
+{{pageNumber,auto Appendix A --- The Scarlet Crusaders}}
+\page
+
+- Hal remembers that Merek appeared unusually well supplied for someone who claimed to have travelled alone for several days.
+- Alda knows the local roads and has occasionally been surprised by how certain Merek is about recent Scourge movement.
+- Elise and Brendan know that Merek sometimes leaves the farmstead alone.
+- Oren can identify small inconsistencies in Merek's descriptions of places he claims to have travelled through.
+- Merek has repeatedly warned the group away from danger before there were obvious signs that danger was present.
+
+None of these observations proves anything by itself.
+
+### Too Much Knowledge
+
+Merek's knowledge of the Scourge is the strongest thread available to the player characters.
+
+His explanations are reasonable: tracks, distant movement, scavenger behavior, smoke, silence, and experience can all reveal danger to someone who knows what to look for.
+
+What is harder to explain is how often he has been right.
+
+If the player characters compare Merek's knowledge with Alda's or question him closely about how he reached a particular conclusion, they may realize that he is sometimes describing certainty where an ordinary survivor should only have suspicion.
+
+The road back may reinforce this. If Merek warns the group away from the northern route and they later discover that a Scourge force was waiting there, his advice is proven correct. That makes him more useful, but it may also make him more suspicious.
+
+### Following the Trail
+
+Merek does not carry an obvious Cult symbol, written orders, or any other object that immediately exposes him.
+
+If the player characters investigate his movements instead of his belongings, however, they may find evidence that he has been leaving the farmstead for reasons he has not fully explained.
+
+Tracks, observations from Brendan or Elise, or careful questioning may establish that Merek has made several solitary trips away from the group.
+
+Merek claims that he was scouting for food, water, and signs of undead movement.
+
+That explanation is partly true.
+
+The Gamemaster may allow further investigation outside the farmstead to reveal a place where Merek has met or exchanged information with his contact: disturbed ground, repeated footprints, an unusual marker, or signs that two people have met there recently.
+
+Such evidence shows that Merek has concealed something, but does not necessarily reveal who he met or why.
+
+### Pressing Merek
+
+Merek does not panic simply because the player characters become suspicious.
+
+He answers questions calmly, admits harmless truths where doing so makes him more believable, and points out that almost everyone in the group has something to hide.
+
+If challenged about leaving the farmstead, he says that scouting alone is quieter and safer.
+
+If challenged about his knowledge of Scourge movements, he credits caution, observation, and experience.
+
+If challenged about inconsistencies in his past, he claims exhaustion, fear, or poor memory.
+
+All of these explanations are plausible.
+
+Merek becomes concerned only when the player characters begin combining several independent pieces of information or investigating his movements directly.
+
+### When Merek Knows He Is in Danger
+
+As long as suspicion remains vague, Merek stays with the group. Reaching Hearthglen remains his goal.
+
+If the player characters openly accuse him without convincing evidence, he denies it and may receive support from survivors whose lives he has helped save.
+
+If they uncover enough to make arrest likely, Merek begins looking for an opportunity to escape.
+
+He prefers flight to violence. Violence draws attention, threatens his cover, and may turn the survivors against him.
+
+If escape becomes impossible, he fights only as a last resort.
+
+### No Required Solution
+
+Merek does not need to be exposed for the adventure to reach a conclusion.
+
+If the player characters accept the survivors' stories and escort all eight safely to Hearthglen, they have completed the assignment they were given. Merek has simply succeeded at his own objective as well.
+
+If they uncover his deception, he may be arrested, killed, or forced to flee.
+
+If he realizes that he has been discovered before they can act, he may escape and remain a threat elsewhere.
+
+All three outcomes are valid.
+
+{{pageNumber,auto Act 1 --- Living Among the Dead}}
 \page
 
 # The Scarlet Crusaders
@@ -1692,6 +2076,41 @@ Foulmane is a rare ghoul with Ferocity equals the number of player characters mi
 }}
 
 ![ghoul](https://i.imgur.com/FKGf0JO.png) {height:400px,mix-blend-mode:multiply,margin-left:0cm,margin-top:0cm,margin-bottom:-1.5cm,transform:scaleX(1)}
+
+{{pageNumber,auto Appendix B --- The Scourge}}
+\page
+
+![skeletal mage](https://i.imgur.com/Q7kicWL.png) {height:400px,mix-blend-mode:multiply,margin-left:4cm,margin-top:0cm,margin-bottom:-0.4cm,transform:scaleX(1)}
+
+{{dragonbox,wide
+### Skeletal Mage
+
+Skeletal mages are undead spellcasters raised by the Scourge to wield the magic they practiced in life. Unlike common skeletons, they retain enough intellect to understand complex orders, choose their targets, and use their spells with deliberate purpose. Cold blue light burns within their empty sockets as frost gathers around their hands and weapons.
+
+In battle, skeletal mages prefer to remain behind other undead, using frost magic to slow and weaken their enemies before they can close the distance. Though physically frail compared to many of the Scourge's creatures, their intelligence and command of magic make them dangerous opponents when protected by ghouls or other servants.
+
+|                                                              |
+|:-------------------------------------------------------------|
+| **Movement:** 8        |
+| **HP:** 12 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **WP:** 18  |
+| **Armor:** Leather (1) |
+| **Skills:** Awareness 8, Elementalism 12, Evade 8, Staves 8          |
+| **Magic Tricks:** Flick, Head/Chill, Open/Close |
+| **Spells:** Frost, Frost Bolt, Dispel, Magic Shield |
+| **Abilities:** Focused (2)
+| **Weapons:** Staff (skill level 8, damage D8)|
+
+#### Resistance:
+All piercing damage is halved (rounded up).
+
+#### Immunity:
+Skeletons are immune to fear and PERSUASION.
+}}
+
+{{pageNumber,auto Appendix B --- The Scourge}}
+\page
+
+* Merek Calder
 
 {{pageNumber,auto Appendix B --- The Scourge}}
 \page
