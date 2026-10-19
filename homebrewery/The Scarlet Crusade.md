@@ -131,21 +131,23 @@ The Homebrewery
 
 &emsp;[Locations](#p38) {{number 37}}
 
-&emsp;[Back to Hearthglen](#pXX+1) {{number XX}}
+&emsp;[Back to Hearthglen](#p41) {{number 40}}
 
-[**Living Among the Dead**](#p37) {{number 36}}
+[**Living Among the Dead**](#p42) {{number 41}}
 
-&emsp;[The Situation](#p37) {{number 36}}
+&emsp;[The Situation](#p42) {{number 41}}
 
-&emsp;[The Assignment](#p38) {{number 37}}
+&emsp;[The Assignment](#p43) {{number 42}}
 
-&emsp;[Locations](#p39) {{number 38}}
+&emsp;[Locations](#p44) {{number 43}}
 
-&emsp;[The Survivors](#p41) {{number 40}}
+&emsp;[The Survivors](#p46) {{number 45}}
 
-&emsp;[The Investigation](#p45) {{number 44}}
+&emsp;[The Investigation](#p50) {{number 49}}
 
-&emsp;[Back to Hearthglen](#p47) {{number 46}}
+&emsp;[Back to Hearthglen](#p52) {{number 51}}
+
+\column
 
 }}
 
@@ -1312,7 +1314,7 @@ Once the remaining animals have been dealt with and the contaminated storehouse 
 
 \column
 
-![the old storehouse](https://i.imgur.com/Vpnc5sb.png) {height:600px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+![return to work](https://i.imgur.com/Vpnc5sb.png) {height:600px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
 
 
 {{pageNumber,auto Act 1 --- Trouble at the Mill}}
@@ -1519,7 +1521,7 @@ Within a few days, patrols resume along the road south. The war goes on.
 \page
 
 {{wide
-![grain for the living](https://i.imgur.com/sC6csHB.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+![grain for the living](https://i.imgur.com/MZwyLL7.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:-0.3cm,transform:scaleX(1)}
 }}
 
 # Grain for the Living
@@ -1539,7 +1541,7 @@ The wagons carry ordinary but necessary supplies: grain and other preserved food
 
 The road is normally considered manageable, but recent rain has damaged several sections. One of the convoy's regular guards is also recovering from an injury, leaving the escort short-handed.
 
-The greatest danger is not a planned attack. It is the accumulated risk of moving heavy wagons through damaged country where help may be hours away.
+The journey puts the convoy at the mercy of damaged roads, long distances, and the dangers of travelling through country where help may be hours away.
 
 During the journey, the player characters may have to deal with poor road conditions, damaged equipment, delays, signs of nearby Scourge activity, and the possibility of undead being drawn toward the convoy.
 
@@ -1566,12 +1568,136 @@ Brenna can provide the following information:
 - The road is regularly patrolled, but there are long stretches without immediate support.
 - Recent rain has left parts of the route in poor condition.
 - The waystation is expecting the convoy before nightfall.
-- Food and medicine are the highest priorities if cargo must be abandoned.
+- Food and medicine are the highest priorities if cargo must be abandoned, followed by ammunition and tools.
 - The two civilian teamsters know the road and can handle ordinary repairs, but they are not trained fighters.
 
 Brenna is explicit about one point:
 
 *"Do not get yourselves killed protecting lamp oil. If something has to be left behind, leave the right thing behind."*{color:var(--demongreen)}
+
+## Locations
+
+### 1. The Quartermaster's Yard
+
+> Wagons stand packed close together between the storehouses. Teamsters tighten harness straps while workers carry sacks and crates under the watchful eye of clerks with ink-stained hands.
+>
+> Quartermaster Holt stands beside the lead wagon with a ledger tucked under one arm.
+
+- **The Convoy:** The convoy consists of two wagons, each pulled by a pair of draft horses.
+- **The Lead Wagon:** Carries grain and preserved food, bandages and medicine, ammunition, blankets, and some tools.
+- **The Second Wagon:** Carries additional food and medicine, lamp oil, spare equipment, clothing, ammunition, and the remaining tools.
+- **The Teamsters:** Two civilian teamsters handle the wagons. Both know the road, are comfortable with horses, and can make ordinary repairs, but neither is a trained fighter.
+- **Brenna's Priorities:** If the player characters ask what matters most, Brenna ranks medicine and food first, followed by ammunition and tools. Other supplies are useful, but replaceable.
+- **Preparation:** The wagons have been loaded carefully, the cargo is secured, the harness is in good condition, and the wheels and axles have been checked before departure.
+- **Departure:** The convoy leaves Hearthglen in the morning.
+
+### 2. The Old Road
+
+> The road south is little more than two muddy ruts between fields gone wild. Old Lordaeron milestones still stand at intervals, some leaning at sharp angles where the earth has shifted beneath them.
+>
+> For a time, the journey is almost peaceful.
+
+- **Routine Travel:** No roll is required simply to follow the road. The wagons move slowly but steadily.
+- **Old Country:** Abandoned farms and ruined buildings can be seen in the distance. Some have clearly been searched or stripped for useful materials.
+- **Signs of Use:** Scarlet trail markers, wheel ruts, hoofprints, and old campfire sites show that the road is still regularly travelled.
+- **The Journey:** The slow pace leaves plenty of time for conversation with the teamsters or among the player characters.
+- **Recent Tracks:** Several ghoul tracks cross the road and disappear into the fields. The teamsters identify them without hesitation and note that the undead sometimes move through this area after dark. They prefer to reach the waystation before sunset if possible.
+- ***Reading the Tracks:*** {color:red} A successful {{med BUSHCRAFT}} or {{med AWARENESS}} roll shows that the tracks are only a few hours old and that the ghouls were moving away from the road rather than following it.
+
+{{pageNumber,auto Act I -- Grain for the Living}}
+\page
+
+### 3. The Washed-Out Bend
+
+> Ahead, the road slopes toward a shallow stream where days of rain have chewed away one side of the track. Muddy water runs through a deep rut beside a narrow strip of firmer ground.
+>
+> The lead wagon rolls down carefully, wheels slipping once before finding purchase on the far side. The teamster calls back a warning and waves the second wagon forward.
+>
+> For a few moments it looks as though it will make it. Then the left wheel sinks. The wagon lurches violently to one side. Horses rear against their harness as the wheel drops deep into the mud, followed by the sharp crack of splitting wood. Crates shift in the bed, one topples against the sideboards, and the teamster hauls desperately on the reins before the wagon finally comes to a stop at an angle across the road.
+>
+> One wheel is buried almost to the hub. Its outer rim has split, and the axle sits twisted under the weight of the loaded wagon.
+
+- **The Accident:** The second wagon is stuck at an angle with one wheel buried in the mud, the outer rim split, and the axle twisted under the load. It cannot continue until the wagon is lightened and the wheel repaired well enough to move.
+- **Repairing the Wheel:** The teamsters can make a temporary repair on their own, but doing so takes time. A player character who helps with the repair can make a {{med CRAFTING}} roll; on a success, the repair is completed considerably faster. The Gamemaster may allow another suitable practical approach to achieve the same result.
+- **Unloading:** Removing part of the cargo makes the wagon easier to lift and gives the teamsters better access to the damaged wheel.
+- **Cargo Transfer:** Some supplies can be moved onto the lead wagon. The spare horses can help pull a heavier load, but the wagon itself can only carry so much. If the player characters significantly overload it, the convoy moves slowly enough to count as significantly delayed.
+- **Time Pressure:** The teamsters quickly realize that a full repair will delay the convoy by several hours and may leave them on the road after sunset. Both become visibly uneasy at the prospect. They have already seen the fresh ghoul tracks along the route and know that undead movement becomes harder to avoid after dark.
+- **Getting Moving:** A quicker repair, transferring essential supplies, or leaving some cargo behind can get the convoy moving sooner. The teamsters are willing to follow whatever practical plan the player characters choose, but grow increasingly anxious if the group remains stationary for too long.
+- **Priorities:** If cargo must be left behind, the teamsters suggest following Brenna's instructions: people first, then medicine and food.
+- **MOVING ON:**{color:var(--monsterbrown)} If the convoy gets moving without a significant delay, it reaches the waystation before nightfall (#5). If the repair, reloading, or other decisions delay the convoy by several hours, continue to the old orchard (#4).
+- **Abandoned Cargo:** If the player characters left supplies beside the road, they can check the site on the journey back to Hearthglen. By then, most of what was left behind is gone or ruined. Sacks have been torn open, food scattered or spoiled, containers broken, and anything obviously useful has been taken. A few bulky or low-value items may remain, but the abandoned cargo should be considered largely lost.
+
+### 4. The Old Orchard
+
+> The road narrows between the remains of an orchard. Dead and twisted trees stand in uneven rows on either side, tangled with brush that has grown across the old field boundaries.
+>
+> The last daylight is fading between the branches.
+>
+> One of the horses snorts and pulls hard against its harness.
+
+- **The Ghouls:** A number of ghouls equal to the number of player characters plus one have moved into the orchard and are close enough to threaten the convoy as it passes.
+- **Warning Signs:** The horses become restless before the undead are clearly visible.
+- ***Spotting Them Early:*** A successful {{med AWARENESS}} roll notices movement among the ruined trees before the ghouls close in. On a failure, the attack comes without warning and the player characters are surprised.
+- **The Attack:** The ghouls rush the convoy from between the trees, attacking the nearest living creatures they can reach.
+- **The Teamsters:** The teamsters concentrate on controlling the horses and keeping the wagons moving. They fight only if forced to defend themselves.
+- **The Wagons:** The wagons can provide cover or form part of a defensive position if the player characters choose to stop.
+
+### 5. The Waystation
+
+> A low palisade surrounds a cluster of timber buildings beside the road. A watch platform rises above the gate, and a pair of tired soldiers appear along the wall as the convoy approaches.
+>
+> One of them turns toward the yard behind him and shouts:
+> *"They're here!"*{color:var(--demongreen)}
+
+{{pageNumber,auto Act I -- Grain for the Living}}
+\page
+
+{{wide
+![the old orchard](https://i.imgur.com/SWt5BIf.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+
+
+- **The Waystation:** The small fortified post supports patrols along the road and provides shelter for couriers, wounded soldiers, and civilians travelling under Scarlet protection.
+- **The Stores:** Food reserves are low enough that rationing would have begun within days.
+- **The Wounded:** Two wounded soldiers are waiting for fresh bandages and medicine.
+- **Ammunition:** The garrison still has enough arrows and bolts for routine defense, but little reserve.
+- **Lamp Oil:** The waystation has enough for immediate needs, but not enough to waste.
+- **Unloading:** The garrison begins unloading as soon as the wagons enter the yard. Food goes directly to storage, while medicine is carried to the wounded.
+- **Missing Supplies:** If some cargo was lost or abandoned, the garrison reacts according to what is missing. Medicine and food matter immediately; other losses are inconvenient rather than disastrous.
+- **The Teamsters and Horses:** If both teamsters and all four horses arrive safely, the people at the waystation take particular note of it.
+- **What Came Later:** If the convoy reached the orchard before nightfall, a later patrol reports undead moving through that stretch of road after dusk. The player characters can therefore learn that the time they saved mattered.
+
+{{pageNumber,auto Act I -- Grain for the Living}}
+\page
+
+## Back to Hearthglen
+
+![inspection](https://i.imgur.com/lQQNDxb.png) {height:750px,mix-blend-mode:multiply,margin-left:-1.2cm,margin-top:0.5cm,margin-bottom:0cm,transform:scaleX(1)}
+
+\column
+
+The player characters may return to Hearthglen with the teamsters after the wagons are unloaded, remain overnight at the waystation, or travel back with another patrol if the hour is late.
+
+If supplies were abandoned at the washed-out bend, the group can inspect the site on the return journey. Most of what was left behind is gone or ruined. Sacks have been torn open, food scattered or spoiled, containers broken, and anything easily carried has disappeared. A few bulky or low-value items may remain, but most of the abandoned cargo is lost.
+
+If the convoy reached the waystation before nightfall, a later patrol reports ghoul activity near the old orchard after dusk. The player characters learn that the time they saved kept the convoy ahead of the undead.
+
+### Brenna's Report
+
+Quartermaster Brenna Holt reviews the delivery when the player characters return. She wants to know what reached the waystation, what was lost or abandoned, whether either wagon was damaged, whether the teamsters and horses returned safely, and what condition the road is in. Brenna is more interested in judgment than perfection. If the player characters abandoned replaceable cargo to protect lives or keep the convoy moving, she accepts the loss. If medicine, food, or ammunition was left behind, she records it and adjusts future deliveries accordingly. Any damaged wagon is added to the quartermaster's repair workload. Lost supplies are entered into the stores ledger and replaced when possible.
+
+Brenna asks about the condition of the road, any signs of Scourge activity, and anything else that could affect future convoys.
+
+### Epilogue
+
+Whatever the outcome, the journey is recorded as part of Hearthglen's continuing effort to keep its outlying positions supplied.
+
+If the convoy reached the waystation, whatever supplies arrived are put to use immediately and any shortages are added to the next requisition sent back to Hearthglen. If the convoy turned back before completing the delivery, the failed attempt is recorded and another delivery must eventually be arranged.
+
+The consequences of the journey remain visible in the quartermaster's records: cargo delivered or lost, repairs needed, horses exhausted, and any dangers encountered along the road.
+
+By the next morning, Hearthglen's quartermaster yard is busy again. Another wagon is already being loaded.
 
 {{pageNumber,auto Act I -- Grain for the Living}}
 \page
