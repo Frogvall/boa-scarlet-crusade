@@ -1,0 +1,6 @@
+FROM python:3.12-slim
+RUN pip install --no-cache-dir 'PyMuPDF==1.26.7' 'Pillow==12.3.0'
+COPY pdf_optimizer.py /usr/local/bin/pdf_optimizer.py
+WORKDIR /data
+ENTRYPOINT ["python", "/usr/local/bin/pdf_optimizer.py"]
+l

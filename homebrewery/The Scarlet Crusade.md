@@ -86,7 +86,6 @@ The Homebrewery
 ## Act 1
 [New Blood](#p11)
 
-
 &emsp;[Running The Act](#p11) {{number 10}}
 
 &emsp;[Shape of The Act](#p13) {{number 12}}
@@ -147,8 +146,6 @@ The Homebrewery
 
 &emsp;[Back to Hearthglen](#p52) {{number 51}}
 
-\column
-
 }}
 
 {{pageNumber,auto Contents}}
@@ -184,8 +181,11 @@ This book is written for the Gamemaster rather than the players. It describes th
 
 The first of these begins in Hearthglen, where the characters' training has ended and their real service is about to begin.
 
-### Player Maps
-High resolution versions of the maps included in this book, with or without numbers, can be downloaded from this project's [GitHub repository](https://github.com/Frogvall/boa-scarlet-crusade/tree/homebrewery/homebrewery/images/maps ).
+### Player Maps and handouts
+High resolution versions of the maps (with or without numbers) and handouts included in this book can be downloaded from this project's GitHub repository.
+
+- [Maps](https://github.com/Frogvall/boa-scarlet-crusade/tree/homebrewery/homebrewery/images/maps)
+- [Handouts](https://github.com/Frogvall/boa-scarlet-crusade/tree/homebrewery/homebrewery/images/handouts)
 
 {{pageNumber,auto Introduction}}
 \page
@@ -554,7 +554,7 @@ Roll once for each regular or voluntary patrol.
 | 17 | **Someone Needs Help.** The patrol encounters civilians, workers, or Scarlet personnel dealing with a minor but immediate problem. This could, but does not need to involve combat. |
 | 18 | **Ghouls.** The patrol encounters a small group of ghouls. You can find the ghoul stat block in Appendix A. |
 | 19 | **Dangerous Encounter.** A more serious threat appears: a larger ghoul pack, diseased wildlife, or another encounter appropriate to the area and current events. If this is rolled before *Trouble at the Mill*, avoid using diseased wildlife. |
-| 20 | **Foulmane.** The patrol discovers signs leading to an old crypt inhabited by Foulmane. The Foulmane encounter is described later in this act. If Foulmane has already been encountered, treat this result as an Uneventful Patrol instead. |
+| 20 | **The Family Crypt.** The patrol discovers signs leading to an old crypt inhabited by the ghoul Foulmane. This short adventure is described later in this act. If the family crypt has already been encountered, treat this result as an Uneventful Patrol instead. |
 }}
 
 {{pageNumber,auto Act 1 --- New Blood}}
@@ -2123,6 +2123,169 @@ For the player characters, the assignment ends as it began: as a rescue mission.
 }}
 
 {{pageNumber,auto Act 1 --- Living Among the Dead}}
+\page
+
+{{wide
+![the family crypt](https://i.imgur.com/87V3RBs.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+# The Family Crypt
+{title="Act 1"}
+
+{{dropcap T}}he roads and abandoned farmlands surrounding Hearthglen are home to many dangers. Among them are ghouls that roam the countryside in search of living prey, sometimes returning to the same hunting grounds for weeks or months.
+
+During a routine patrol, the player characters may discover the remains of a violent attack on two travellers. Following the trail leads them to an old family crypt, where a particularly dangerous ghoul has made its lair.
+
+The ghoul has made its home among the graves of its own ancestors, and the crypt holds the story of the man it once was.
+
+## The Situation
+
+Before the fall of Lordaeron, the man who would become Foulmane belonged to a prosperous family of landowners in the countryside surrounding Hearthglen. Generations of his ancestors had been laid to rest in a stone crypt on the family's estate.
+
+When the plague spread through the region, he became infected. Having witnessed what happened to others afflicted by the sickness, he understood that he might soon become a danger to those around him. He withdrew to the family crypt, bringing a few personal belongings and writing a final letter to whoever might eventually find him. He then sealed the entrance from within, intending to die alone rather than risk harming anyone else. He did die, but death did not bring him peace.
+
+Raised as a ghoul by the plague, he remained trapped inside the crypt for years. Eventually, the old entrance gave way under his repeated attempts to escape. Since then, Foulmane has roamed the surrounding countryside, hunting the living and returning to the crypt with the remains of his victims.
+
+The crypt's original occupants still rest undisturbed in their sealed tombs. More recent corpses, dragged there by Foulmane, lie scattered across its chambers.
+
+### The Recent Attack
+
+Shortly before the player characters' patrol, two travellers were making their way along an old country road with a horse and wagon when Foulmane attacked.
+
+{{pageNumber,auto Act 1 --- The Family Crypt}}
+\page
+
+He killed one of them beside the wagon and immediately began feeding on the body. The second traveller escaped on foot while the ghoul was occupied.
+
+Foulmane abandoned his meal and pursued the fleeing traveller across the fields. He caught and killed the unfortunate victim some distance from the road, then dragged the body back to the family crypt.
+
+The wagon, its abandoned cargo, and the remains of the first victim are still beside the road when the player characters arrive. Footprints and signs of pursuit lead away from the scene, eventually joining a trail left by the body being dragged toward the crypt.
+
+Foulmane has returned to his lair, where the player characters may find him among the remains of his recent victims.
+
+## Locations
+
+### 1. The Abandoned Wagon
+
+> The old country road winds between neglected fields and the remains of low stone walls. Ahead, a wagon stands crookedly beside the road, one wheel sunk into the soft ground. A horse lies motionless in its harness, and crates and bundles have been scattered across the roadside.
+>
+> As you draw closer, you see dark stains across the wagon's wooden sideboards and deep gouges in the timber. A human body lies beside the rear wheel, its clothing torn and its flesh savagely mauled. Flies gather around the remains.
+>
+> Beyond the wagon, the tall grass has been trampled, leaving a narrow trail leading away from the road.
+
+- **The Wagon:** The wagon belonged to two travellers transporting household goods, tools, and a small quantity of provisions. Several crates were broken during the attack, scattering their contents across the ground.
+- **The Horse:** The horse was killed during the attack and remains tangled in its harness. Deep claw marks and torn flesh show that it was attacked by the same creature that killed the traveller.
+- **The First Victim:** The body has been partially eaten. The wounds are consistent with a ghoul attack, and the surrounding ground shows signs of a violent struggle.
+- **The Second Traveller:** Two sets of human footprints are visible around the wagon, but only one body remains. A trail of hurried footprints leads away through the trampled grass, accompanied by the much deeper tracks of a pursuing creature.
+- ***Reading the Tracks:*** {color:red} A successful {{med BUSHCRAFT}} roll reveals that a single creature pursued the fleeing traveller. The tracks suggest that the attack happened recently and that the creature was considerably heavier than a human.
+- **Following the Trail:** The tracks lead away from the road, across overgrown fields and into a patch of neglected woodland. Some distance from the wagon, the human footprints end amid signs of another violent struggle. From there, a broad trail of disturbed vegetation and dragged earth continues through the trees.
+- **The Drag Marks:** Bloodstains, torn cloth, and the occasional personal belonging can be found along the trail. The marks suggest that a body was dragged through the woodland toward an old burial ground. The tracks lead to the family crypt (#2).
+
+### 2. The Family Crypt
+
+> The trail leads through a stand of ancient trees to a small burial ground enclosed by a crumbling stone wall. Weathered gravestones rise from the weeds, their inscriptions worn by decades of rain and neglect.
+>
+> At the far end stands a low stone crypt, its entrance framed by carved pillars and the remains of an iron gate. One of the gate's hinges has been torn from the masonry, leaving the twisted metal hanging at an angle.
+>
+> Beyond the entrance, stone steps descend into darkness. A foul smell rises from below, carrying the unmistakable stench of rotting flesh.
+
+- **The Burial Ground:** The cemetery belongs to the Ashcrombe family, landowners who lived in the area before the fall of Lordaeron. Several generations are buried here. Weathered gravestones bear the family name and a shared heraldic emblem.
+- **The Broken Gate:** The iron gate was once secured with a heavy padlock, now hanging broken from its bars. One hinge has been torn from the masonry, and the twisted metal and deep scratches around the entrance show that something forced its way out.
+- **The Entrance:** A short flight of stone steps leads into the crypt. Mud, dried blood, and ghoul tracks mark the steps, showing that the creature has passed through repeatedly.
+
+{{pageNumber,auto Act 1 --- The Family Crypt}}
+\page
+
+{{wide
+![the family crypt](https://i.imgur.com/QNNs7NU.png) {height:650px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+}}
+
+- **The Burial Chambers:** Stone sarcophagi and sealed burial niches line the crypt's chambers. Most bear names, dates, and short inscriptions commemorating members of the family. The remains within have long since decayed, and the tombs remain undisturbed.
+- **Signs of Foulmane:** Claw marks scar several walls and doorframes. Bones, torn clothing, and other remains from more recent victims have been scattered across the floor.
+- **The Corpses:** Four partially eaten human bodies lie within the crypt, three in the northern chamber and one in the western chamber. One of them is the second traveller from the wagon. Foulmane can use these corpses for his *Cannibalize!* monster attack.
+- **The Family Records:** The eastern chamber contains an old writing desk, bookshelves, and documents belonging to the Ashcrombe family. Among them is a letter written by Edmund Ashcrombe before his death. The letter and other surviving belongings are described in *The Family's Legacy*.
+- **Foulmane:** The ghoul can be found in the northern burial chamber, feeding among the remains of its victims. It attacks living intruders who enter the crypt. Foulmane's statistics can be found with the ghoul in Appendix B.
+- **SOUTH:**{color:var(--monsterbrown)} The trail leading back to the abandoned wagon (#1).
+
+{{pageNumber,auto Act 1 --- The Family Crypt}}
+\page
+
+## The Family's Legacy
+
+The Ashcrombe family crypt contains more than the remains of its former occupants. In the eastern chamber, documents and personal belongings offer a glimpse into the lives of the family who once owned the surrounding lands.
+
+### The Ashcrombe Family
+
+The Ashcrombes were a family of landowners whose estate lay in the countryside surrounding Hearthglen. Several generations lived and died here before the fall of Lordaeron.
+
+The names and dates carved into the sarcophagi and burial niches record the family's history. The most recent inscriptions belong to the years immediately preceding the fall of Lordaeron.
+
+Old ledgers, correspondence, and other documents in the eastern chamber identify Edmund Ashcrombe as one of the family's last residents. The records also establish that he was living on the estate when the plague reached the region.
+
+### Edmund's Letter
+
+Among the papers on the writing desk lies a folded letter, protected from dust and moisture beneath the cover of a heavy book. The handwriting is careful but becomes increasingly uneven toward the end.
+
+![edmund's letter](https://i.imgur.com/WYHW3oH.png) {height:400px,mix-blend-mode:multiply,margin-left:-0.4cm,margin-top:0cm,margin-bottom:0cm,transform:scaleX(1)}
+
+The letter was written shortly before Edmund succumbed to the plague. He entered the crypt voluntarily, hoping to prevent himself from harming anyone else.
+
+The broken gate and the remains of Foulmane's victims reveal what eventually became of that decision.
+
+### The Family's Possessions
+
+The eastern chamber contains several belongings left behind by the Ashcrombe family. Among the books and documents are a few pieces of silver jewelry, an old signet ring bearing the family crest, and a small coffer containing 2D10 silver coins.
+
+Resting against the wall beside the writing desk is a large shield, decorated with the Ashcrombe family crest. Its dark blue and ivory paint is worn with age, but the metal fittings remain remarkably well preserved. Faint golden runes are engraved along its edges.
+
+![the unbroaken oath](https://i.imgur.com/Uut6geh.png) {height:400px,mix-blend-mode:multiply,margin-left:0.2cm,margin-top:0.5cm,margin-bottom:0.5cm,transform:scaleX(1)}
+
+
+- **The Unbroken Oath:** This large shield has been in the Ashcrombe family for generations. It bears an *Unbreakable* enchantment at power level 2, increasing its durability to 36.
+
+
+{{pageNumber,auto Act 1 --- The Family Crypt}}
+\page
+
+# Aftermath
+{title="Act 1"}
+
+{{dropcap M}}onths have passed since the player characters first began taking assignments from Hearthglen.
+
+They have patrolled the surrounding roads, fought the Scourge, escorted supplies, searched for missing soldiers, and brought civilians back from dangerous territory. By now, they are no longer treated as untested recruits.
+
+Their names are known among the soldiers and officers of Hearthglen. Quartermasters recognize them, patrol leaders know what they can be trusted with, and the people they have helped may greet them when they pass through the town.
+
+Some of the consequences of their earlier missions may also remain visible:
+
+- Survivors from the missing patrol may still be recovering or serving in Hearthglen.
+- Refugees rescued from the Plaguelands may have found temporary work or shelter inside the town.
+- Damaged equipment, lost supplies, or reports of Scourge activity may have changed how patrols and convoys are handled.
+- Merek Calder may be a prisoner, a fugitive, or quietly living inside Hearthglen under a false identity.
+
+The war beyond the walls has not become easier. More reports arrive from the west, patrols continue to disappear, and the roads toward Andorhal remain dangerous.
+
+For the player characters, however, their first period of service is over.
+
+\column
+
+### Advancement
+
+At the end of Act 1, each player character gains one additional Heroic Ability of their choice for which they meet the prerequisites.
+
+This represents the experience, training, and hard-earned confidence gained during their first months of active service with the Scarlet Crusade.
+
+{{wide
+![celebration](https://i.imgur.com/xS8Wmnr.png) {height:550px,mix-blend-mode:multiply,margin-left:-1cm,margin-top:-5.7cm,margin-bottom:0cm,transform:scaleX(1),position:absolute}
+}}
+
+{{pageNumber,auto Act 1 --- Aftermath}}
+\page
+
+# Necessary Measures
+{title="Act 2"}
+
+{{pageNumber,auto Act 2 --- Necessary Measures}}
 \page
 
 # The Scarlet Crusaders
